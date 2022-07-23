@@ -8,9 +8,9 @@ Little site to show cell towers from OSM data
 {{geocodeArea:US-FL}}->.searchArea2;
 {{geocodeArea:US-GA}}->.searchArea3;
 (
-  node["communication:mobile_phone"](area.searchArea);
-  node["communication:mobile_phone"](area.searchArea2);
-  node["communication:mobile_phone"](area.searchArea3);
+  node["communication:mobile_phone"]["communication:mobile_phone"!="no"](area.searchArea);
+  node["communication:mobile_phone"]["communication:mobile_phone"!="no"](area.searchArea2);
+  node["communication:mobile_phone"]["communication:mobile_phone"!="no"](area.searchArea3);
 );
 out body;
 >;

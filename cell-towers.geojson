@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-22T19:47:52Z",
+  "timestamp": "2022-07-23T01:09:53Z",
   "features": [
     {
       "type": "Feature",
@@ -26,65 +26,6 @@
         ]
       },
       "id": "node/358719758"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/358735747",
-        "communication:bos": "no",
-        "communication:gsm-r": "no",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "communication:radio": "yes",
-        "communication:television": "yes",
-        "ele": "22",
-        "gnis:county_id": "001",
-        "gnis:created": "08/01/1994",
-        "gnis:feature_id": "308690;308996",
-        "gnis:state_id": "12",
-        "man_made": "mast",
-        "name": "WJLF-FM (Gainesville)",
-        "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4191377,
-          29.643668
-        ]
-      },
-      "id": "node/358735747"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/358736293",
-        "communication:bos": "no",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "communication:radio": "yes",
-        "communication:television": "yes",
-        "ele": "54",
-        "gnis:county_id": "001",
-        "gnis:created": "08/01/1994",
-        "gnis:feature_id": "309177;308993;308994",
-        "gnis:state_id": "12",
-        "man_made": "mast",
-        "name": "WUFT-FM (Gainesville);WUFT-TV (Gainesville);WRUF-FM (Gainesville)",
-        "tower:construction": "guyed_lattice",
-        "tower:type": "communication",
-        "wikidata": "Q7956582",
-        "wikipedia": "en:WUFT-FM"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.3947182,
-          29.7098069
-        ]
-      },
-      "id": "node/358736293"
     },
     {
       "type": "Feature",
@@ -237,35 +178,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/358739791",
-        "communication:bos": "yes",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "communication:radio": "no",
-        "communication:television": "no",
-        "ele": "23",
-        "gnis:county_id": "083",
-        "gnis:created": "08/28/1987",
-        "gnis:edited": "02/24/2006",
-        "gnis:feature_id": "2053980",
-        "gnis:state_id": "12",
-        "man_made": "tower",
-        "name": "Marion County Sheriff's Office Radio Tower",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.1739224,
-          29.1914729
-        ]
-      },
-      "id": "node/358739791"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/358740557",
         "communication:microwave": "yes",
         "communication:mobile_phone": "yes",
@@ -287,34 +199,6 @@
         ]
       },
       "id": "node/358740557"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/358743616",
-        "communication:bos": "no",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "communication:radio": "no",
-        "communication:television": "yes",
-        "ele": "55",
-        "gnis:county_id": "001",
-        "gnis:created": "01/09/2006",
-        "gnis:feature_id": "2082043",
-        "gnis:state_id": "12",
-        "man_made": "mast",
-        "name": "WCJB-TV - Gainesville",
-        "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.3902778,
-          29.7118535
-        ]
-      },
-      "id": "node/358743616"
     },
     {
       "type": "Feature",
@@ -2128,70 +2012,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4234331542",
-        "communication:bos": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "communication:radio": "no",
-        "communication:television": "no",
-        "man_made": "tower",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.8080123,
-          30.3190822
-        ]
-      },
-      "id": "node/4234331542"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4236464923",
-        "communication:bos": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "communication:radio": "no",
-        "communication:television": "no",
-        "man_made": "tower",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.9374703,
-          30.2753673
-        ]
-      },
-      "id": "node/4236464923"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4236464960",
-        "communication:bos": "yes",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "man_made": "tower",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.9333673,
-          30.4502383
-        ]
-      },
-      "id": "node/4236464960"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4236464981",
         "communication:bos": "no",
         "communication:microwave": "yes",
@@ -2236,50 +2056,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4236465352",
-        "communication:bos": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "communication:radio": "no",
-        "communication:television": "yes",
-        "man_made": "tower",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.058024,
-          30.5172014
-        ]
-      },
-      "id": "node/4236465352"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4236465445",
-        "communication:bos": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "communication:radio": "no",
-        "communication:television": "no",
-        "man_made": "tower",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.1193744,
-          30.5952453
-        ]
-      },
-      "id": "node/4236465445"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4236513781",
         "communication:microwave": "no",
         "communication:mobile_phone": "yes",
@@ -2297,28 +2073,6 @@
         ]
       },
       "id": "node/4236513781"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4238099965",
-        "communication:bos": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "communication:radio": "no",
-        "communication:television": "no",
-        "man_made": "tower",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.2465443,
-          29.4065436
-        ]
-      },
-      "id": "node/4238099965"
     },
     {
       "type": "Feature",
@@ -2411,26 +2165,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4239926604",
-        "communication:bos": "yes",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.1706223,
-          29.1929339
-        ]
-      },
-      "id": "node/4239926604"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4241940589",
         "communication:bos": "no",
         "communication:microwave": "no",
@@ -2448,83 +2182,6 @@
         ]
       },
       "id": "node/4241940589"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4249725521",
-        "addr:city": "Gainesville",
-        "addr:housenumber": "1569",
-        "addr:postcode": "32611",
-        "addr:state": "FL",
-        "addr:street": "Museum Road",
-        "communication:bos": "yes",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "communication:radio": "yes",
-        "communication:television": "no",
-        "description": "Police UHF Radio Tower",
-        "height": "20",
-        "man_made": "mast",
-        "material": "steel",
-        "operator": "University Police Department",
-        "ref": "1747",
-        "tower:construction": "lattice",
-        "tower:type": "radio"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.3430053,
-          29.6443046
-        ]
-      },
-      "id": "node/4249725521"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4265268614",
-        "communication:bos": "no",
-        "communication:gsm-r": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "communication:radio": "no",
-        "communication:television": "no",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.505605,
-          29.5582101
-        ]
-      },
-      "id": "node/4265268614"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4267140668",
-        "communication:bos": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "communication:radio": "no",
-        "communication:television": "no",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.604986,
-          29.8140042
-        ]
-      },
-      "id": "node/4267140668"
     },
     {
       "type": "Feature",
@@ -2782,27 +2439,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4280821213",
-        "communication:bos": "no",
-        "communication:gsm-r": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.8907896,
-          29.5046578
-        ]
-      },
-      "id": "node/4280821213"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4293406194",
         "communication:bos": "no",
         "communication:gsm-r": "no",
@@ -2820,90 +2456,6 @@
         ]
       },
       "id": "node/4293406194"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4293697418",
-        "communication:bos": "no",
-        "communication:gsm-r": "no",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "communication:radio": "yes",
-        "ele": "22",
-        "gnis:county_id": "001",
-        "gnis:created": "08/01/1994",
-        "gnis:feature_id": "308690;308996",
-        "gnis:state_id": "12",
-        "man_made": "mast",
-        "name": "WJLF-FM (Gainesville)",
-        "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.419724,
-          29.6441234
-        ]
-      },
-      "id": "node/4293697418"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4293697419",
-        "communication:bos": "no",
-        "communication:gsm-r": "no",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "communication:radio": "yes",
-        "ele": "22",
-        "gnis:county_id": "001",
-        "gnis:created": "08/01/1994",
-        "gnis:feature_id": "308690;308996",
-        "gnis:state_id": "12",
-        "man_made": "mast",
-        "name": "WRUF-AM (Gainesville)",
-        "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4203726,
-          29.6419593
-        ]
-      },
-      "id": "node/4293697419"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4293697420",
-        "communication:bos": "no",
-        "communication:gsm-r": "no",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "communication:radio": "yes",
-        "ele": "22",
-        "gnis:county_id": "001",
-        "gnis:created": "08/01/1994",
-        "gnis:feature_id": "308690;308996",
-        "gnis:state_id": "12",
-        "man_made": "mast",
-        "name": "WRUF-AM (Gainesville)",
-        "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4209467,
-          29.6424488
-        ]
-      },
-      "id": "node/4293697420"
     },
     {
       "type": "Feature",
@@ -3185,26 +2737,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4340532473",
-        "communication:bos": "yes",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.4505037,
-          29.4033557
-        ]
-      },
-      "id": "node/4340532473"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4356750270",
         "communication:mobile_phone": "yes",
         "man_made": "tower",
@@ -3264,27 +2796,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4497756461",
-        "communication:bos": "no",
-        "communication:gsm-r": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.7792315,
-          29.9523903
-        ]
-      },
-      "id": "node/4497756461"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4497758907",
         "communication:bos": "no",
         "communication:gsm-r": "no",
@@ -3323,27 +2834,6 @@
         ]
       },
       "id": "node/4497767916"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4497794763",
-        "communication:bos": "no",
-        "communication:gsm-r": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.0404335,
-          29.7871648
-        ]
-      },
-      "id": "node/4497794763"
     },
     {
       "type": "Feature",
@@ -3490,27 +2980,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4511292432",
-        "communication:bos": "yes",
-        "communication:gsm-r": "no",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "freestanding",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.4550702,
-          29.9733715
-        ]
-      },
-      "id": "node/4511292432"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4511292459",
         "communication:bos": "no",
         "communication:gsm-r": "no",
@@ -3570,28 +3039,6 @@
         ]
       },
       "id": "node/4512550639"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4524123529",
-        "communication:aviation": "yes",
-        "communication:bos": "no",
-        "communication:gsm-r": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "guyed",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.1913556,
-          29.3092171
-        ]
-      },
-      "id": "node/4524123529"
     },
     {
       "type": "Feature",
@@ -3675,29 +3122,6 @@
         ]
       },
       "id": "node/4531098754"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4531098761",
-        "communication:antenna": "yes",
-        "communication:bos": "no",
-        "communication:gsm-r": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "height": "128",
-        "man_made": "tower",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.0864126,
-          29.1587322
-        ]
-      },
-      "id": "node/4531098761"
     },
     {
       "type": "Feature",
@@ -3995,47 +3419,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/4852163546",
-        "communication:bos": "no",
-        "communication:gsm-r": "no",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.7723949,
-          29.3301196
-        ]
-      },
-      "id": "node/4852163546"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4852355240",
-        "communication:microwave": "no",
-        "communication:mobile_phone": "no",
-        "communication:radio": "no",
-        "communication:television": "no",
-        "man_made": "tower",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.8038973,
-          24.5453836
-        ]
-      },
-      "id": "node/4852355240"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/4854178386",
         "communication:bos": "no",
         "communication:gsm-r": "no",
@@ -4074,25 +3457,6 @@
         ]
       },
       "id": "node/4854289926"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4860819527",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -83.1355539,
-          29.617031
-        ]
-      },
-      "id": "node/4860819527"
     },
     {
       "type": "Feature",
@@ -4196,25 +3560,6 @@
         ]
       },
       "id": "node/4888681690"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/4888681923",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -81.956436,
-          28.8186105
-        ]
-      },
-      "id": "node/4888681923"
     },
     {
       "type": "Feature",
@@ -7020,44 +6365,6 @@
         ]
       },
       "id": "node/7047357224"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7047409326",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "freestanding",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.2369542,
-          28.2229087
-        ]
-      },
-      "id": "node/7047409326"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/7047451414",
-        "communication:microwave": "yes",
-        "communication:mobile_phone": "no",
-        "man_made": "mast",
-        "tower:construction": "freestanding",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -82.2850147,
-          28.1473156
-        ]
-      },
-      "id": "node/7047451414"
     },
     {
       "type": "Feature",
@@ -10887,25 +10194,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/8487381630",
-        "communication:mobile_phone": "no",
-        "communication:radio": "yes",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.5299942,
-          32.5453085
-        ]
-      },
-      "id": "node/8487381630"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/8507196970",
         "communication:mobile_phone": "yes",
         "man_made": "antenna"
@@ -12581,25 +11869,6 @@
         ]
       },
       "id": "node/9142398154"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "node/9142398155",
-        "communication:mobile_phone": "no",
-        "communication:radio": "yes",
-        "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.1645847,
-          32.3303883
-        ]
-      },
-      "id": "node/9142398155"
     },
     {
       "type": "Feature",
