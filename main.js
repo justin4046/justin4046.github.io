@@ -35,8 +35,8 @@ const map = new ol.Map({
   layers: [osmLayer, vectorLayer],
   target: 'map',
   view: new ol.View({
-    center: new ol.proj.fromLonLat([-85.3930, 31.2238]),
-    zoom: 10,
+    center: new ol.proj.fromLonLat([-86.682, 32.605]),
+    zoom: 8,
   }),
   interactions: new ol.interaction.defaults({altShiftDragRotate:false, pinchRotate:false,}),
 });
