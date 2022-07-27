@@ -2,8 +2,32 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-27T01:44:21Z",
+  "timestamp": "2022-07-27T20:39:53Z",
   "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/356886612",
+        "communication:microwave": "yes",
+        "communication:mobile_phone": "yes",
+        "ele": "595",
+        "gnis:county_id": "063",
+        "gnis:created": "08/01/1991",
+        "gnis:feature_id": "1640115",
+        "gnis:state_id": "47",
+        "man_made": "tower",
+        "name": "WAZI-FM (Morristown)",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3314359,
+          36.2271718
+        ]
+      },
+      "id": "node/356886612"
+    },
     {
       "type": "Feature",
       "properties": {
@@ -361,6 +385,23 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1409929729",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.71972,
+          36.3551824
+        ]
+      },
+      "id": "node/1409929729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1637310988",
         "communication:mobile_phone": "yes",
         "man_made": "mast"
@@ -538,6 +579,22 @@
         ]
       },
       "id": "node/1975918988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2000908849",
+        "communication:mobile_phone": "yes",
+        "power": "tower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3766799,
+          35.8328664
+        ]
+      },
+      "id": "node/2000908849"
     },
     {
       "type": "Feature",
@@ -1298,6 +1355,23 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3422073003",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1591579,
+          36.5390557
+        ]
+      },
+      "id": "node/3422073003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3483310463",
         "communication:mobile_phone": "yes",
         "man_made": "tower",
@@ -1647,6 +1721,27 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3742914486",
+        "communication:mobile_phone": "yes",
+        "height": "205 ft",
+        "man_made": "tower",
+        "operator": "SBA Properties, LLC",
+        "ref": "1205515",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4116296,
+          36.5639428
+        ]
+      },
+      "id": "node/3742914486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3790912535",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -1681,6 +1776,75 @@
         ]
       },
       "id": "node/3822167466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3873836472",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3498248,
+          35.9714914
+        ]
+      },
+      "id": "node/3873836472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3873844724",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5092165,
+          35.771969
+        ]
+      },
+      "id": "node/3873844724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3873848346",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6267468,
+          35.5914674
+        ]
+      },
+      "id": "node/3873848346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3877463568",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9515403,
+          35.2987175
+        ]
+      },
+      "id": "node/3877463568"
     },
     {
       "type": "Feature",
@@ -1775,6 +1939,32 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/3957547616",
+        "addr:city": "Clarksville",
+        "addr:country": "US",
+        "addr:housenumber": "231",
+        "addr:postcode": "37042",
+        "addr:state": "TN",
+        "addr:street": "Cunningham Lane",
+        "communication:microwave": "no",
+        "communication:mobile_phone": "yes",
+        "communication:radio": "no",
+        "communication:television": "no",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4195816,
+          36.5761931
+        ]
+      },
+      "id": "node/3957547616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/3965240093",
         "communication:bos": "yes",
         "communication:microwave": "yes",
@@ -1809,6 +1999,26 @@
         ]
       },
       "id": "node/4005128497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4027088860",
+        "communication:microwave": "yes",
+        "communication:mobile_phone": "yes",
+        "communication:radio": "no",
+        "communication:television": "no",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4351421,
+          36.580441
+        ]
+      },
+      "id": "node/4027088860"
     },
     {
       "type": "Feature",
@@ -2728,13 +2938,17 @@
         "@id": "node/4338667157",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
-        "tower:type": "communication"
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN686",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11980;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11915"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -85.7894865,
-          32.4423994
+          -85.7894685,
+          32.4424284
         ]
       },
       "id": "node/4338667157"
@@ -2880,6 +3094,29 @@
         ]
       },
       "id": "node/4444046325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4460193037",
+        "communication:mobile_phone": "yes",
+        "height": "33",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN931",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5059912,
+          31.8332188
+        ]
+      },
+      "id": "node/4460193037"
     },
     {
       "type": "Feature",
@@ -3370,6 +3607,31 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4596547613",
+        "addr:housenumber": "12504",
+        "addr:street": "US 90",
+        "communication:mobile_phone": "yes",
+        "height": "15",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA461",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4003341,
+          30.4720058
+        ]
+      },
+      "id": "node/4596547613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4624232915",
         "communication:bos": "no",
         "communication:gsm-r": "no",
@@ -3590,6 +3852,26 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4854588606",
+        "communication:microwave": "no",
+        "communication:mobile_phone": "yes",
+        "communication:radio": "yes",
+        "communication:television": "no",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4130765,
+          36.590886
+        ]
+      },
+      "id": "node/4854588606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4868055331",
         "communication:bos": "no",
         "communication:gsm-r": "no",
@@ -3668,6 +3950,25 @@
         ]
       },
       "id": "node/4885828146"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4887923611",
+        "communication:mobile_phone": "yes",
+        "description": "Tower, providing coverage for Verizon, AT&T and T-Mobile.  SI Wireless (MobileNation, Twigby) is no longer in operation at this site.",
+        "man_made": "tower",
+        "tower:construction": "guyed",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7544749,
+          35.3216741
+        ]
+      },
+      "id": "node/4887923611"
     },
     {
       "type": "Feature",
@@ -3856,9 +4157,14 @@
       "properties": {
         "@id": "node/5022982266",
         "communication:mobile_phone": "yes",
+        "height": "28",
         "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN931",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11915"
       },
       "geometry": {
         "type": "Point",
@@ -4227,6 +4533,25 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5261330340",
+        "communication:mobile_phone": "yes",
+        "height": "79.61",
+        "man_made": "mast",
+        "tower:construction": "lattice_steel",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9107458,
+          36.0713579
+        ]
+      },
+      "id": "node/5261330340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5274178459",
         "communication:mobile_phone": "yes",
         "man_made": "tower",
@@ -4406,6 +4731,159 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5308581919",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9211026,
+          35.1932514
+        ]
+      },
+      "id": "node/5308581919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5308647387",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8934342,
+          35.1712609
+        ]
+      },
+      "id": "node/5308647387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5308759673",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0338371,
+          35.2070244
+        ]
+      },
+      "id": "node/5308759673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5308863838",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0169775,
+          35.2816182
+        ]
+      },
+      "id": "node/5308863838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5308901540",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8911455,
+          35.3410493
+        ]
+      },
+      "id": "node/5308901540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5309378801",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9711191,
+          35.1628448
+        ]
+      },
+      "id": "node/5309378801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5309431134",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8875853,
+          35.1501901
+        ]
+      },
+      "id": "node/5309431134"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5309431135",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8875102,
+          35.1504358
+        ]
+      },
+      "id": "node/5309431135"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5309431136",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8875043,
+          35.1509645
+        ]
+      },
+      "id": "node/5309431136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5319763402",
         "communication:gsm-r": "no",
         "communication:mobile_phone": "yes",
@@ -4519,10 +4997,17 @@
       "type": "Feature",
       "properties": {
         "@id": "node/5603349786",
+        "addr:housenumber": "222",
+        "addr:street": "Ransom Drive",
         "communication:mobile_phone": "yes",
+        "height": "28",
         "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKA522",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12716"
       },
       "geometry": {
         "type": "Point",
@@ -5026,6 +5511,29 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/5891936756",
+        "communication:mobile_phone": "yes",
+        "height": "44",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1967227,
+          32.6101117
+        ]
+      },
+      "id": "node/5891936756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/5893015171",
         "addr:housenumber": "23175",
         "addr:state": "AL",
@@ -5271,6 +5779,23 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6072300124",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0968364,
+          35.9198689
+        ]
+      },
+      "id": "node/6072300124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6076478465",
         "communication:mobile_phone": "yes",
         "man_made": "antenna"
@@ -5299,6 +5824,47 @@
         ]
       },
       "id": "node/6076478466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6097099032",
+        "communication:mobile_phone": "yes",
+        "fixme": "position",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9582897,
+          36.4744665
+        ]
+      },
+      "id": "node/6097099032"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6106288947",
+        "communication:mobile_phone": "yes",
+        "height": "25",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN932",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2514654,
+          32.5974311
+        ]
+      },
+      "id": "node/6106288947"
     },
     {
       "type": "Feature",
@@ -5425,6 +5991,92 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6216494013",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4379137,
+          36.3658523
+        ]
+      },
+      "id": "node/6216494013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6217436292",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.747607,
+          36.1549963
+        ]
+      },
+      "id": "node/6217436292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6260256949",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.769116,
+          35.3142969
+        ]
+      },
+      "id": "node/6260256949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6260256950",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7601024,
+          35.3110296
+        ]
+      },
+      "id": "node/6260256950"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6260279293",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7295041,
+          35.3148949
+        ]
+      },
+      "id": "node/6260279293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6266740025",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -5457,6 +6109,24 @@
         ]
       },
       "id": "node/6311251689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6315427532",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4791792,
+          36.1516643
+        ]
+      },
+      "id": "node/6315427532"
     },
     {
       "type": "Feature",
@@ -5515,15 +6185,20 @@
       "properties": {
         "@id": "node/6350208468",
         "communication:mobile_phone": "yes",
+        "height": "24",
         "man_made": "mast",
-        "tower:construction": "monopole",
-        "tower:type": "communication"
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKA794",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11976"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.2880392,
-          32.1846694
+          -86.2880341,
+          32.1846234
         ]
       },
       "id": "node/6350208468"
@@ -5670,6 +6345,23 @@
         ]
       },
       "id": "node/6433315467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6433989782",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7880738,
+          35.0467948
+        ]
+      },
+      "id": "node/6433989782"
     },
     {
       "type": "Feature",
@@ -5838,6 +6530,24 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6478666251",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2034838,
+          31.3182274
+        ]
+      },
+      "id": "node/6478666251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6493467001",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -5961,6 +6671,24 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6513806368",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.638324,
+          36.0204386
+        ]
+      },
+      "id": "node/6513806368"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6515227339",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -6071,6 +6799,24 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6518497128",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3519489,
+          35.835767
+        ]
+      },
+      "id": "node/6518497128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6518911912",
         "addr:housenumber": "6270",
         "addr:street": "Winner Drive",
@@ -6092,6 +6838,78 @@
         ]
       },
       "id": "node/6518911912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521465058",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0314327,
+          33.3990116
+        ]
+      },
+      "id": "node/6521465058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521485202",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2811832,
+          32.3589532
+        ]
+      },
+      "id": "node/6521485202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521693732",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.864129,
+          31.593753
+        ]
+      },
+      "id": "node/6521693732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6521846060",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6353308,
+          36.1425048
+        ]
+      },
+      "id": "node/6521846060"
     },
     {
       "type": "Feature",
@@ -6128,6 +6946,23 @@
         ]
       },
       "id": "node/6521891089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6522019277",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3855618,
+          31.9620253
+        ]
+      },
+      "id": "node/6522019277"
     },
     {
       "type": "Feature",
@@ -6332,6 +7167,44 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6652331732",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "source": "Bing",
+        "tower:construction": "tube",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2080364,
+          35.080802
+        ]
+      },
+      "id": "node/6652331732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6652331749",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "source": "Bing",
+        "tower:construction": "tube",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2081318,
+          35.0813176
+        ]
+      },
+      "id": "node/6652331749"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6698508414",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -6364,6 +7237,23 @@
         ]
       },
       "id": "node/6698508415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6716446762",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5798027,
+          36.5578784
+        ]
+      },
+      "id": "node/6716446762"
     },
     {
       "type": "Feature",
@@ -6403,6 +7293,23 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/6840924409",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7852539,
+          36.5818218
+        ]
+      },
+      "id": "node/6840924409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/6910788310",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -6416,6 +7323,39 @@
         ]
       },
       "id": "node/6910788310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6911107296",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3846397,
+          36.5645045
+        ]
+      },
+      "id": "node/6911107296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6925048748",
+        "communication:mobile_phone": "yes",
+        "man_made": "antenna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4154041,
+          35.8432842
+        ]
+      },
+      "id": "node/6925048748"
     },
     {
       "type": "Feature",
@@ -6664,6 +7604,91 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7087444301",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0702478,
+          35.0845399
+        ]
+      },
+      "id": "node/7087444301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7087472526",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0738764,
+          35.0870374
+        ]
+      },
+      "id": "node/7087472526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7087480201",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9316708,
+          35.0862773
+        ]
+      },
+      "id": "node/7087480201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7087482086",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.95542,
+          35.0842096
+        ]
+      },
+      "id": "node/7087482086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7096933022",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0438219,
+          35.1255286
+        ]
+      },
+      "id": "node/7096933022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7192253828",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -6753,6 +7778,24 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7204517102",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6602692,
+          36.054245
+        ]
+      },
+      "id": "node/7204517102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7234103445",
         "communication:mobile_phone": "yes",
         "height": "76",
@@ -6794,6 +7837,28 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7278462996",
+        "communication:lte": "yes",
+        "communication:mobile_phone": "yes",
+        "description": "Asset Number: \n410291\nAsset Name: \nNew Prospect TN\nAsset Class: \nWireless\nStructure Type: \nMonopole\nStructure Height: \n190\nGround Elevation: \n983\nAddress: \n4654-4798 Powdermill Hill Rd\nCity: \nLAWRENCEBURG\nCounty: \nGiles\nState: \nTennessee\nZip: \n38464-8235\n",
+        "man_made": "tower",
+        "note": "American Tower, providing coverage for AT&T, Verizon and T-Mobile.",
+        "source": "survey",
+        "tower:construction": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2074634,
+          35.2212098
+        ]
+      },
+      "id": "node/7278462996"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7411251455",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -6826,6 +7891,22 @@
         ]
       },
       "id": "node/7414403764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7432379928",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3871154,
+          36.5475439
+        ]
+      },
+      "id": "node/7432379928"
     },
     {
       "type": "Feature",
@@ -7042,6 +8123,146 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7722815416",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9678928,
+          35.7626318
+        ]
+      },
+      "id": "node/7722815416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7723630889",
+        "communication:gsm": "yes",
+        "communication:lte": "yes",
+        "communication:mobile": "yes",
+        "communication:mobile_phone": "yes",
+        "ele": "930",
+        "height": "86",
+        "man_made": "mast",
+        "source": "survey",
+        "tower:construction": "lattice_steel",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6479135,
+          35.3408565
+        ]
+      },
+      "id": "node/7723630889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7723749601",
+        "communication:lte": "yes",
+        "communication:mobile_phone": "yes",
+        "description": "Verizon Wireless",
+        "man_made": "mast",
+        "material": "steel",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6696976,
+          35.3462666
+        ]
+      },
+      "id": "node/7723749601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7725737007",
+        "communication:mobile_phone": "yes",
+        "description": "American Tower, providing coverage for AT&T, SI Wireless.",
+        "ele": "987",
+        "height": "92",
+        "man_made": "mast",
+        "source": "survey",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4340373,
+          35.2940637
+        ]
+      },
+      "id": "node/7725737007"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7725983049",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice_steel",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8306541,
+          35.2988176
+        ]
+      },
+      "id": "node/7725983049"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7726003924",
+        "communication:mobile_phone": "yes",
+        "description": "American Tower, Verizon Wireless",
+        "height": "401",
+        "man_made": "mast",
+        "source": "survey",
+        "tower:construction": "lattice_steel",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9416379,
+          35.3118699
+        ]
+      },
+      "id": "node/7726003924"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7735132278",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7247365,
+          35.1797698
+        ]
+      },
+      "id": "node/7735132278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7738049352",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -7057,6 +8278,431 @@
         ]
       },
       "id": "node/7738049352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7776508812",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2218853,
+          36.2068593
+        ]
+      },
+      "id": "node/7776508812"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7777758639",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.723551,
+          35.4787324
+        ]
+      },
+      "id": "node/7777758639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7777761142",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7680978,
+          35.447048
+        ]
+      },
+      "id": "node/7777761142"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7777764284",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7276611,
+          35.4475354
+        ]
+      },
+      "id": "node/7777764284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7777771366",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9009644,
+          35.3420319
+        ]
+      },
+      "id": "node/7777771366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7777782139",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8819385,
+          35.2591039
+        ]
+      },
+      "id": "node/7777782139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7777809503",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8269698,
+          35.2984518
+        ]
+      },
+      "id": "node/7777809503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7777811392",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7809413,
+          35.3046373
+        ]
+      },
+      "id": "node/7777811392"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7778025457",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0789092,
+          35.1155932
+        ]
+      },
+      "id": "node/7778025457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7778030929",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8724406,
+          35.1013309
+        ]
+      },
+      "id": "node/7778030929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7778099842",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9842287,
+          35.2442976
+        ]
+      },
+      "id": "node/7778099842"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785247753",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.892723,
+          32.3052967
+        ]
+      },
+      "id": "node/7785247753"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785539798",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0318407,
+          32.0866001
+        ]
+      },
+      "id": "node/7785539798"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785610601",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7581667,
+          31.8766949
+        ]
+      },
+      "id": "node/7785610601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785614252",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8759958,
+          31.9810957
+        ]
+      },
+      "id": "node/7785614252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785614258",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8826759,
+          31.9857453
+        ]
+      },
+      "id": "node/7785614258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785638198",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7978131,
+          31.9256404
+        ]
+      },
+      "id": "node/7785638198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785724170",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9726564,
+          31.5611784
+        ]
+      },
+      "id": "node/7785724170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785870290",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.928219,
+          34.4455254
+        ]
+      },
+      "id": "node/7785870290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785905829",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9298259,
+          34.2489116
+        ]
+      },
+      "id": "node/7785905829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785937951",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1134742,
+          32.3706601
+        ]
+      },
+      "id": "node/7785937951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785938438",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1173294,
+          32.3340699
+        ]
+      },
+      "id": "node/7785938438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785944039",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3564557,
+          32.3493967
+        ]
+      },
+      "id": "node/7785944039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785945391",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3297987,
+          32.3295806
+        ]
+      },
+      "id": "node/7785945391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7785945708",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2177971,
+          32.3703712
+        ]
+      },
+      "id": "node/7785945708"
     },
     {
       "type": "Feature",
@@ -7503,6 +9149,23 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7792891358",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.2464963,
+          32.3526514
+        ]
+      },
+      "id": "node/7792891358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7792895565",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -7520,6 +9183,75 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7792920569",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.429403,
+          32.3600366
+        ]
+      },
+      "id": "node/7792920569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7792924540",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.3731216,
+          32.3595511
+        ]
+      },
+      "id": "node/7792924540"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7792950806",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6797249,
+          32.3619143
+        ]
+      },
+      "id": "node/7792950806"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7792954324",
+        "communication:mobile_phone": "yes",
+        "fixme": "position",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6847537,
+          32.3645636
+        ]
+      },
+      "id": "node/7792954324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7794637090",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -7533,6 +9265,193 @@
         ]
       },
       "id": "node/7794637090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7799586943",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0092938,
+          35.9347927
+        ]
+      },
+      "id": "node/7799586943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7799648799",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0976786,
+          36.1879943
+        ]
+      },
+      "id": "node/7799648799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7799648800",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0859209,
+          36.173347
+        ]
+      },
+      "id": "node/7799648800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7799648801",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2291755,
+          35.8772531
+        ]
+      },
+      "id": "node/7799648801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7799648802",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2284647,
+          35.876349
+        ]
+      },
+      "id": "node/7799648802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7799648803",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2286444,
+          35.8767446
+        ]
+      },
+      "id": "node/7799648803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7799649483",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2560163,
+          36.4604842
+        ]
+      },
+      "id": "node/7799649483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7799650233",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1237969,
+          36.5596306
+        ]
+      },
+      "id": "node/7799650233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7799650240",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3024307,
+          36.427713
+        ]
+      },
+      "id": "node/7799650240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7802258777",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0444342,
+          35.1213165
+        ]
+      },
+      "id": "node/7802258777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7802259480",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4329699,
+          35.6790533
+        ]
+      },
+      "id": "node/7802259480"
     },
     {
       "type": "Feature",
@@ -8044,6 +9963,24 @@
         ]
       },
       "id": "node/7805098442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7807971121",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "monpole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.573472,
+          36.029388
+        ]
+      },
+      "id": "node/7807971121"
     },
     {
       "type": "Feature",
@@ -9325,6 +11262,60 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/7862040595",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7375621,
+          36.3212955
+        ]
+      },
+      "id": "node/7862040595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7862051919",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1623256,
+          36.0945073
+        ]
+      },
+      "id": "node/7862051919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7862083660",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.02975,
+          36.2191216
+        ]
+      },
+      "id": "node/7862083660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/7862544250",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -10246,6 +12237,245 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8147876609",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3895435,
+          36.2156744
+        ]
+      },
+      "id": "node/8147876609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8147884263",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3321196,
+          36.2284842
+        ]
+      },
+      "id": "node/8147884263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8147884264",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3321732,
+          36.2286159
+        ]
+      },
+      "id": "node/8147884264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8147895752",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2693532,
+          36.1868234
+        ]
+      },
+      "id": "node/8147895752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8147912162",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.559562,
+          36.4282894
+        ]
+      },
+      "id": "node/8147912162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8148912839",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3108043,
+          35.9359187
+        ]
+      },
+      "id": "node/8148912839"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150294701",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9265921,
+          35.9621491
+        ]
+      },
+      "id": "node/8150294701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150302113",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6107535,
+          36.0234284
+        ]
+      },
+      "id": "node/8150302113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150309101",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.738088,
+          36.0248158
+        ]
+      },
+      "id": "node/8150309101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150329424",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8027199,
+          36.0155222
+        ]
+      },
+      "id": "node/8150329424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150372143",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4450609,
+          35.7350773
+        ]
+      },
+      "id": "node/8150372143"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8150383918",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4295168,
+          35.7367447
+        ]
+      },
+      "id": "node/8150383918"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8210688552",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2970847,
+          36.0175019
+        ]
+      },
+      "id": "node/8210688552"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8210724623",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3046004,
+          36.0131646
+        ]
+      },
+      "id": "node/8210724623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8223558927",
         "communication:microwave": "yes",
         "communication:mobile_phone": "yes",
@@ -10265,6 +12495,57 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8261078528",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2620804,
+          36.1112695
+        ]
+      },
+      "id": "node/8261078528"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8280305347",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6734836,
+          35.205282
+        ]
+      },
+      "id": "node/8280305347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8281338514",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.610531,
+          35.196042
+        ]
+      },
+      "id": "node/8281338514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8281449776",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -10278,6 +12559,129 @@
         ]
       },
       "id": "node/8281449776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8281748790",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6581483,
+          35.8790441
+        ]
+      },
+      "id": "node/8281748790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8281749903",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6838877,
+          35.8553391
+        ]
+      },
+      "id": "node/8281749903"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8281755818",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9016892,
+          35.6371704
+        ]
+      },
+      "id": "node/8281755818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8331271726",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.453837,
+          36.0780882
+        ]
+      },
+      "id": "node/8331271726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8359095234",
+        "communication:cdma": "yes",
+        "communication:lte": "yes",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "operator": "C Spire",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2826259,
+          31.6200265
+        ]
+      },
+      "id": "node/8359095234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8385599423",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4757859,
+          31.5012688
+        ]
+      },
+      "id": "node/8385599423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8399646586",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4290407,
+          31.608997
+        ]
+      },
+      "id": "node/8399646586"
     },
     {
       "type": "Feature",
@@ -10437,6 +12841,29 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8430608672",
+        "communication:mobile_phone": "yes",
+        "height": "16",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN932",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3975011,
+          32.6076796
+        ]
+      },
+      "id": "node/8430608672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8430608681",
         "communication:mobile_phone": "yes",
         "height": "25",
@@ -10456,6 +12883,51 @@
         ]
       },
       "id": "node/8430608681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8430608693",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKA677",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13191"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0268703,
+          32.5311966
+        ]
+      },
+      "id": "node/8430608693"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8430608695",
+        "communication:mobile_phone": "yes",
+        "height": "14",
+        "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKQ356",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.462917,
+          32.6145052
+        ]
+      },
+      "id": "node/8430608695"
     },
     {
       "type": "Feature",
@@ -10483,6 +12955,85 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8430608698",
+        "communication:mobile_phone": "yes",
+        "height": "30",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN932",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12950"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5158232,
+          32.5656786
+        ]
+      },
+      "id": "node/8430608698"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8487381630",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKQ356",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5299942,
+          32.5453085
+        ]
+      },
+      "id": "node/8487381630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8503953328",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2118405,
+          36.3319738
+        ]
+      },
+      "id": "node/8503953328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8503953380",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2229624,
+          36.32643
+        ]
+      },
+      "id": "node/8503953380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8507196970",
         "communication:mobile_phone": "yes",
         "man_made": "antenna"
@@ -10495,6 +13046,42 @@
         ]
       },
       "id": "node/8507196970"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8512844660",
+        "communication:lte": "yes",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3695483,
+          31.5732295
+        ]
+      },
+      "id": "node/8512844660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8512844661",
+        "communication:lte": "yes",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3711629,
+          31.5717845
+        ]
+      },
+      "id": "node/8512844661"
     },
     {
       "type": "Feature",
@@ -10512,6 +13099,40 @@
         ]
       },
       "id": "node/8569157563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8579265665",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.839599,
+          36.2367168
+        ]
+      },
+      "id": "node/8579265665"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8587142325",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2134529,
+          31.6030643
+        ]
+      },
+      "id": "node/8587142325"
     },
     {
       "type": "Feature",
@@ -10570,6 +13191,41 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8614746522",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4690835,
+          35.8577916
+        ]
+      },
+      "id": "node/8614746522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8627305679",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "guyed",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9166046,
+          31.1582332
+        ]
+      },
+      "id": "node/8627305679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8629506057",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -10604,6 +13260,108 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8632774185",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7430036,
+          35.9297749
+        ]
+      },
+      "id": "node/8632774185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8632781533",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7905982,
+          35.9594446
+        ]
+      },
+      "id": "node/8632781533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8632927865",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0802221,
+          35.7200313
+        ]
+      },
+      "id": "node/8632927865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8632935685",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9106502,
+          35.9372688
+        ]
+      },
+      "id": "node/8632935685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8638295344",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5814771,
+          36.0894742
+        ]
+      },
+      "id": "node/8638295344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8638311569",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.720704,
+          36.1301344
+        ]
+      },
+      "id": "node/8638311569"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8641991324",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -10617,6 +13375,227 @@
         ]
       },
       "id": "node/8641991324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8655859722",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4757659,
+          36.1299358
+        ]
+      },
+      "id": "node/8655859722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8655896525",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9172454,
+          36.4617568
+        ]
+      },
+      "id": "node/8655896525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8656053121",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5052766,
+          35.8727949
+        ]
+      },
+      "id": "node/8656053121"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8657177811",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9835545,
+          35.9620471
+        ]
+      },
+      "id": "node/8657177811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8657220697",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8623954,
+          35.9132249
+        ]
+      },
+      "id": "node/8657220697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8657229033",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0090611,
+          35.9349327
+        ]
+      },
+      "id": "node/8657229033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8657233461",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9404696,
+          36.0050371
+        ]
+      },
+      "id": "node/8657233461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8657233464",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9313848,
+          36.0110627
+        ]
+      },
+      "id": "node/8657233464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8657237020",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9847823,
+          35.9602703
+        ]
+      },
+      "id": "node/8657237020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8657253808",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0182105,
+          35.956229
+        ]
+      },
+      "id": "node/8657253808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8657260107",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9599063,
+          36.0042277
+        ]
+      },
+      "id": "node/8657260107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8657269990",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9362383,
+          36.0854622
+        ]
+      },
+      "id": "node/8657269990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8657288302",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8996241,
+          36.1105561
+        ]
+      },
+      "id": "node/8657288302"
     },
     {
       "type": "Feature",
@@ -10725,12 +13704,34 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8744162661",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9578378,
+          31.4203083
+        ]
+      },
+      "id": "node/8744162661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8751462723",
         "communication:mobile_phone": "yes",
+        "height": "28",
         "man_made": "mast",
         "material": "steel",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKA677",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13191"
       },
       "geometry": {
         "type": "Point",
@@ -10830,6 +13831,78 @@
         ]
       },
       "id": "node/8813275511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8818462270",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "guyed",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6966678,
+          32.1913407
+        ]
+      },
+      "id": "node/8818462270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8826022988",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6924785,
+          32.3170614
+        ]
+      },
+      "id": "node/8826022988"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8826082863",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.692062,
+          32.3180334
+        ]
+      },
+      "id": "node/8826082863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8826114191",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.691914,
+          32.3265878
+        ]
+      },
+      "id": "node/8826114191"
     },
     {
       "type": "Feature",
@@ -10993,6 +14066,40 @@
         ]
       },
       "id": "node/8915553174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8942667831",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3219818,
+          31.3054352
+        ]
+      },
+      "id": "node/8942667831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8960417276",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2818077,
+          31.5234681
+        ]
+      },
+      "id": "node/8960417276"
     },
     {
       "type": "Feature",
@@ -11198,9 +14305,14 @@
       "properties": {
         "@id": "node/9044529907",
         "communication:mobile_phone": "yes",
+        "height": "34",
         "man_made": "mast",
-        "tower:construction": "lattice",
-        "tower:type": "communication"
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
       },
       "geometry": {
         "type": "Point",
@@ -11410,6 +14522,28 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9084117770",
+        "communication:mobile_phone": "yes",
+        "height": "27",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN736",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5595405,
+          32.2558892
+        ]
+      },
+      "id": "node/9084117770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9084117777",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -11430,9 +14564,14 @@
       "properties": {
         "@id": "node/9084117780",
         "communication:mobile_phone": "yes",
+        "height": "43",
         "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN708",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12733"
       },
       "geometry": {
         "type": "Point",
@@ -11442,6 +14581,29 @@
         ]
       },
       "id": "node/9084117780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9084117782",
+        "communication:mobile_phone": "yes",
+        "height": "37",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN931",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5873809,
+          32.5120387
+        ]
+      },
+      "id": "node/9084117782"
     },
     {
       "type": "Feature",
@@ -11502,9 +14664,14 @@
       "properties": {
         "@id": "node/9084117788",
         "communication:mobile_phone": "yes",
+        "height": "70",
         "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKQ356",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12623"
       },
       "geometry": {
         "type": "Point",
@@ -11854,9 +15021,14 @@
       "properties": {
         "@id": "node/9111311391",
         "communication:mobile_phone": "yes",
+        "height": "37",
         "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKA415",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12305"
       },
       "geometry": {
         "type": "Point",
@@ -11946,9 +15118,14 @@
         "@id": "node/9123259093",
         "communication:mobile_phone": "yes",
         "communication:radio": "yes",
+        "height": "46",
         "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKA677",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13191"
       },
       "geometry": {
         "type": "Point",
@@ -12349,27 +15526,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "node/9148184685",
-        "communication:mobile_phone": "yes",
-        "communication:television": "yes",
-        "man_made": "mast",
-        "name": "WDAK-TV",
-        "tower:construction": "guyed_lattice",
-        "tower:type": "communication",
-        "website": "https://newsradio540.iheart.com/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.0392946,
-          32.4632291
-        ]
-      },
-      "id": "node/9148184685"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "node/9148188612",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -12555,9 +15711,14 @@
       "properties": {
         "@id": "node/9158363209",
         "communication:mobile_phone": "yes",
+        "height": "23",
         "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKA677",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "guyed_lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13191"
       },
       "geometry": {
         "type": "Point",
@@ -12603,6 +15764,24 @@
         ]
       },
       "id": "node/9159864670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9161035969",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1757062,
+          31.82611
+        ]
+      },
+      "id": "node/9161035969"
     },
     {
       "type": "Feature",
@@ -12693,6 +15872,23 @@
         ]
       },
       "id": "node/9176786679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9179463707",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6973826,
+          34.8575359
+        ]
+      },
+      "id": "node/9179463707"
     },
     {
       "type": "Feature",
@@ -12874,6 +16070,23 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9248345848",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2394317,
+          36.1261837
+        ]
+      },
+      "id": "node/9248345848"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9258316332",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -13012,6 +16225,57 @@
         ]
       },
       "id": "node/9297545116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9307433426",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9612036,
+          36.0077683
+        ]
+      },
+      "id": "node/9307433426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9307444642",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6459535,
+          35.6205458
+        ]
+      },
+      "id": "node/9307444642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9307447690",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0060015,
+          36.0238311
+        ]
+      },
+      "id": "node/9307447690"
     },
     {
       "type": "Feature",
@@ -13197,6 +16461,23 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9371701797",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9035935,
+          32.4632538
+        ]
+      },
+      "id": "node/9371701797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9377057004",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -13247,6 +16528,23 @@
         ]
       },
       "id": "node/9379475720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9398230421",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8832903,
+          34.9405754
+        ]
+      },
+      "id": "node/9398230421"
     },
     {
       "type": "Feature",
@@ -13438,6 +16736,41 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9482444964",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0722612,
+          35.0589443
+        ]
+      },
+      "id": "node/9482444964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9482509519",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5189807,
+          36.1243108
+        ]
+      },
+      "id": "node/9482509519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9484636931",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -13493,6 +16826,24 @@
         ]
       },
       "id": "node/9484965203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9484989524",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1703851,
+          35.2459301
+        ]
+      },
+      "id": "node/9484989524"
     },
     {
       "type": "Feature",
@@ -13788,6 +17139,42 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9502801890",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8036934,
+          35.67921
+        ]
+      },
+      "id": "node/9502801890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9502892019",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.290105,
+          31.1016476
+        ]
+      },
+      "id": "node/9502892019"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9502981767",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -13874,6 +17261,24 @@
         ]
       },
       "id": "node/9527714526"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9530139470",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7051411,
+          35.2499449
+        ]
+      },
+      "id": "node/9530139470"
     },
     {
       "type": "Feature",
@@ -14018,6 +17423,25 @@
         ]
       },
       "id": "node/9566830333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9566991868",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1054760",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0265223,
+          35.0199108
+        ]
+      },
+      "id": "node/9566991868"
     },
     {
       "type": "Feature",
@@ -14387,6 +17811,25 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9699432711",
+        "communication:mobile_phone": "yes",
+        "height": "33",
+        "man_made": "tower",
+        "tower:construction": "tube",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9253974,
+          36.4247159
+        ]
+      },
+      "id": "node/9699432711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9765775948",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -14404,6 +17847,22 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9787295811",
+        "communication:mobile_phone": "yes",
+        "man_made": "antenna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8525962,
+          36.1414717
+        ]
+      },
+      "id": "node/9787295811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9795401047",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -14417,6 +17876,142 @@
         ]
       },
       "id": "node/9795401047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9797641183",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3983497,
+          36.1840327
+        ]
+      },
+      "id": "node/9797641183"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9797649859",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7679739,
+          36.1103514
+        ]
+      },
+      "id": "node/9797649859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9797663958",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1609315,
+          36.5537995
+        ]
+      },
+      "id": "node/9797663958"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9797704128",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2011318,
+          35.7998235
+        ]
+      },
+      "id": "node/9797704128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9799243091",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0402478,
+          36.5183768
+        ]
+      },
+      "id": "node/9799243091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9799248445",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1757618,
+          36.5205487
+        ]
+      },
+      "id": "node/9799248445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9799568951",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6158575,
+          36.2260475
+        ]
+      },
+      "id": "node/9799568951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9799570172",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6201624,
+          36.2821728
+        ]
+      },
+      "id": "node/9799570172"
     },
     {
       "type": "Feature",
@@ -14598,6 +18193,23 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9814630513",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1939574,
+          35.6145004
+        ]
+      },
+      "id": "node/9814630513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9814933419",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -14611,6 +18223,40 @@
         ]
       },
       "id": "node/9814933419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9815042686",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0194519,
+          36.2091925
+        ]
+      },
+      "id": "node/9815042686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9815042687",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0188751,
+          36.2058492
+        ]
+      },
+      "id": "node/9815042687"
     },
     {
       "type": "Feature",
@@ -14629,6 +18275,25 @@
         ]
       },
       "id": "node/9831610369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9854543881",
+        "communication:mobile_phone": "yes",
+        "man_made": "antenna",
+        "material": "steel",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6449802,
+          33.3531216
+        ]
+      },
+      "id": "node/9854543881"
     },
     {
       "type": "Feature",
@@ -16340,8 +20005,12 @@
         "@id": "node/9904779462",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKQ356",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12623"
       },
       "geometry": {
         "type": "Point",
@@ -20013,6 +23682,1421 @@
         ]
       },
       "id": "node/9913533560"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606079",
+        "communication:mobile_phone": "yes",
+        "communication:television": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0392874,
+          32.4633463
+        ]
+      },
+      "id": "node/9913606079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606080",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4015426,
+          32.4703807
+        ]
+      },
+      "id": "node/9913606080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606081",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3586866,
+          32.2580623
+        ]
+      },
+      "id": "node/9913606081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606082",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN708",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9880221,
+          32.4160358
+        ]
+      },
+      "id": "node/9913606082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606083",
+        "communication:mobile_phone": "yes",
+        "height": "39",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN708",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.602173,
+          32.1364873
+        ]
+      },
+      "id": "node/9913606083"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606084",
+        "communication:mobile_phone": "yes",
+        "height": "14",
+        "man_made": "antenna",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN708",
+        "source": "FCC HIFLD Cellular Database",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3390984,
+          32.6680555
+        ]
+      },
+      "id": "node/9913606084"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606085",
+        "communication:mobile_phone": "yes",
+        "height": "13",
+        "man_made": "antenna",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN708",
+        "source": "FCC HIFLD Cellular Database",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5769796,
+          31.9935304
+        ]
+      },
+      "id": "node/9913606085"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606086",
+        "addr:housenumber": "3240",
+        "addr:street": "AL 41",
+        "communication:mobile_phone": "yes",
+        "height": "30",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN708",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2226099,
+          32.0127711
+        ]
+      },
+      "id": "node/9913606086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606087",
+        "communication:mobile_phone": "yes",
+        "height": "32",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN708",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5158228,
+          32.0281143
+        ]
+      },
+      "id": "node/9913606087"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606088",
+        "addr:housenumber": "12883",
+        "addr:street": "AL 14",
+        "communication:mobile_phone": "yes",
+        "height": "45",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN708",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12733"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0961983,
+          32.4640892
+        ]
+      },
+      "id": "node/9913606088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606089",
+        "addr:housenumber": "270",
+        "addr:street": "Fischer Road",
+        "communication:mobile_phone": "yes",
+        "height": "17",
+        "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKA522",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3585278,
+          32.2581111
+        ]
+      },
+      "id": "node/9913606089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606090",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKA522",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1140783,
+          32.1949479
+        ]
+      },
+      "id": "node/9913606090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606091",
+        "addr:housenumber": "919",
+        "addr:street": "Peake Road",
+        "communication:mobile_phone": "yes",
+        "height": "42",
+        "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKA522",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0399708,
+          32.0624225
+        ]
+      },
+      "id": "node/9913606091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606092",
+        "communication:mobile_phone": "yes",
+        "height": "17",
+        "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKA522",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12716"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4929582,
+          32.4580476
+        ]
+      },
+      "id": "node/9913606092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606093",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKQ378",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3170331,
+          31.9399853
+        ]
+      },
+      "id": "node/9913606093"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606094",
+        "communication:mobile_phone": "yes",
+        "height": "33",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKQ378",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9994923,
+          31.9494549
+        ]
+      },
+      "id": "node/9913606094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606095",
+        "addr:housenumber": "131",
+        "addr:state": "AL",
+        "addr:street": "West Old Hayneville Road",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation;Verizon Wireless of the East LP",
+        "ref": "KNKQ378",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2803859,
+          32.1610138
+        ]
+      },
+      "id": "node/9913606095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606096",
+        "communication:mobile_phone": "yes",
+        "height": "22",
+        "man_made": "mast",
+        "operator": "Verizon Wireless of the East LP",
+        "ref": "KNKQ356",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7143651,
+          32.1444004
+        ]
+      },
+      "id": "node/9913606096"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606098",
+        "communication:mobile_phone": "yes",
+        "height": "37",
+        "man_made": "mast",
+        "note": "5763 COUNTY ROAD 7714 DUP (108392)",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN725",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0064976,
+          31.9584809
+        ]
+      },
+      "id": "node/9913606098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606099",
+        "addr:housenumber": "216",
+        "addr:street": "Old Meriweather Trail",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN725",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3141667,
+          31.9642222
+        ]
+      },
+      "id": "node/9913606099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606100",
+        "addr:housenumber": "971",
+        "addr:street": "Manningham Road",
+        "communication:mobile_phone": "yes",
+        "height": "33",
+        "man_made": "mast",
+        "note": "971 MANNINGHAM ROAD (70354)",
+        "operator": "New Cingular Wireless PCS, LLC;Rural Cellular Corporation",
+        "ref": "KNKN725",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12393"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6587586,
+          31.8392634
+        ]
+      },
+      "id": "node/9913606100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606101",
+        "communication:mobile_phone": "yes",
+        "man_made": "antenna",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKA415",
+        "source": "FCC HIFLD Cellular Database",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0392798,
+          32.4633474
+        ]
+      },
+      "id": "node/9913606101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606102",
+        "addr:housenumber": "28371",
+        "addr:street": "AL 17",
+        "communication:mobile_phone": "yes",
+        "height": "32",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN797",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3120782,
+          31.6129103
+        ]
+      },
+      "id": "node/9913606102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606103",
+        "addr:housenumber": "401",
+        "addr:street": "Happy Valley Road",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN797",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7594722,
+          31.7921111
+        ]
+      },
+      "id": "node/9913606103"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606104",
+        "communication:mobile_phone": "yes",
+        "height": "19",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN797",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2553583,
+          31.4661518
+        ]
+      },
+      "id": "node/9913606104"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606105",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN797",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8864832,
+          31.5753122
+        ]
+      },
+      "id": "node/9913606105"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606106",
+        "communication:mobile_phone": "yes",
+        "height": "25",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN797",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7856029,
+          31.676932
+        ]
+      },
+      "id": "node/9913606106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606107",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN797",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12068"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7799167,
+          31.8953056
+        ]
+      },
+      "id": "node/9913606107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606108",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0607237,
+          32.2097362
+        ]
+      },
+      "id": "node/9913606108"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606109",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3044255,
+          32.1830155
+        ]
+      },
+      "id": "node/9913606109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606110",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6589856,
+          32.1279067
+        ]
+      },
+      "id": "node/9913606110"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606111",
+        "addr:housenumber": "5104",
+        "addr:street": "US 43",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7862788,
+          32.059438
+        ]
+      },
+      "id": "node/9913606111"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606112",
+        "communication:mobile_phone": "yes",
+        "height": "17",
+        "man_made": "mast",
+        "operator": "PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5946352,
+          32.4366199
+        ]
+      },
+      "id": "node/9913606112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606113",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0992108,
+          32.1258819
+        ]
+      },
+      "id": "node/9913606113"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606114",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1782387,
+          32.0994845
+        ]
+      },
+      "id": "node/9913606114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606115",
+        "addr:housenumber": "426",
+        "addr:street": "Silas Branch Road",
+        "communication:mobile_phone": "yes",
+        "height": "29",
+        "man_made": "mast",
+        "operator": "PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3226092,
+          31.7731437
+        ]
+      },
+      "id": "node/9913606115"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913606116",
+        "communication:mobile_phone": "yes",
+        "height": "21",
+        "man_made": "mast",
+        "operator": "PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9989977,
+          32.1167294
+        ]
+      },
+      "id": "node/9913606116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652417",
+        "communication:mobile_phone": "yes",
+        "height": "25",
+        "man_made": "mast",
+        "operator": "PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2620935,
+          32.0254727
+        ]
+      },
+      "id": "node/9913652417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652418",
+        "communication:mobile_phone": "yes",
+        "height": "34",
+        "man_made": "mast",
+        "operator": "PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7677208,
+          32.4419658
+        ]
+      },
+      "id": "node/9913652418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652419",
+        "communication:mobile_phone": "yes",
+        "height": "11",
+        "man_made": "antenna",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN679",
+        "source": "FCC HIFLD Cellular Database",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2520278,
+          31.4616111
+        ]
+      },
+      "id": "node/9913652419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652420",
+        "addr:housenumber": "6550",
+        "addr:street": "US 43",
+        "communication:mobile_phone": "yes",
+        "height": "45",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN679",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8861389,
+          31.5753333
+        ]
+      },
+      "id": "node/9913652420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652421",
+        "communication:mobile_phone": "yes",
+        "height": "45",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN679",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12052"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7801111,
+          31.895426
+        ]
+      },
+      "id": "node/9913652421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652422",
+        "addr:housenumber": "1109",
+        "addr:street": "Ann Street",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKA794",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.930096,
+          32.5866709
+        ]
+      },
+      "id": "node/9913652422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652423",
+        "communication:mobile_phone": "yes",
+        "height": "39",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKA794",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0797386,
+          32.1836899
+        ]
+      },
+      "id": "node/9913652423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652424",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKA794",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3588777,
+          32.2579274
+        ]
+      },
+      "id": "node/9913652424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652425",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKA794",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5044148,
+          32.6337019
+        ]
+      },
+      "id": "node/9913652425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652426",
+        "communication:mobile_phone": "yes",
+        "height": "30",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKA794",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11976"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4007249,
+          32.4702872
+        ]
+      },
+      "id": "node/9913652426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652427",
+        "addr:housenumber": "5339",
+        "addr:street": "AL 22",
+        "communication:mobile_phone": "yes",
+        "height": "27",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN736",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9999403,
+          32.4803511
+        ]
+      },
+      "id": "node/9913652427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652428",
+        "communication:mobile_phone": "yes",
+        "height": "43",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN736",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2653255,
+          31.9548705
+        ]
+      },
+      "id": "node/9913652428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652429",
+        "communication:mobile_phone": "yes",
+        "height": "39",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN736",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0974937,
+          32.4025527
+        ]
+      },
+      "id": "node/9913652429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652430",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN736",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3909325,
+          31.9826536
+        ]
+      },
+      "id": "node/9913652430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652431",
+        "addr:housenumber": "4761",
+        "addr:street": "County Road 109",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN736",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3708349,
+          32.306656
+        ]
+      },
+      "id": "node/9913652431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652432",
+        "communication:mobile_phone": "yes",
+        "height": "27",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN736",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0824935,
+          31.9233835
+        ]
+      },
+      "id": "node/9913652432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652433",
+        "communication:mobile_phone": "yes",
+        "height": "27",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN736",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5564265,
+          32.0681223
+        ]
+      },
+      "id": "node/9913652433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652434",
+        "communication:mobile_phone": "yes",
+        "height": "29",
+        "man_made": "mast",
+        "operator": "ALLTEL Corporation",
+        "ref": "KNKN736",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11975"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7926679,
+          32.2600214
+        ]
+      },
+      "id": "node/9913652434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652436",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4074537,
+          31.7689109
+        ]
+      },
+      "id": "node/9913652436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652437",
+        "addr:housenumber": "18880",
+        "addr:street": "US 84",
+        "communication:mobile_phone": "yes",
+        "height": "31",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation;PINE BELT CELLULAR, INC.",
+        "ref": "KNKQ407;KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12054;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1594722,
+          31.7535278
+        ]
+      },
+      "id": "node/9913652437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652438",
+        "addr:housenumber": "14781",
+        "addr:street": "US 80",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.118,
+          32.4625556
+        ]
+      },
+      "id": "node/9913652438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652439",
+        "communication:mobile_phone": "yes",
+        "height": "32",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3694253,
+          32.4543507
+        ]
+      },
+      "id": "node/9913652439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652440",
+        "communication:mobile_phone": "yes",
+        "height": "30",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0502366,
+          32.2277017
+        ]
+      },
+      "id": "node/9913652440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9913652441",
+        "communication:mobile_phone": "yes",
+        "height": "44",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7799908,
+          32.1795139
+        ]
+      },
+      "id": "node/9913652441"
     }
   ]
 }
