@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-07-28T17:00:40Z",
+  "timestamp": "2022-07-30T00:39:24Z",
   "features": [
     {
       "type": "Feature",
@@ -310,6 +310,32 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/1277495360",
+        "addr:housenumber": "240 Frank Hereford Road",
+        "addr:state": "AL",
+        "addr:street": "County Road 214",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA392",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4293114,
+          34.887645
+        ]
+      },
+      "id": "node/1277495360"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/1291808357",
         "communication:mobile_phone": "yes",
         "fixme": "is it named \"Cell tower\"?",
@@ -368,16 +394,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/1376787666",
+        "addr:housenumber": "11445",
+        "addr:state": "AL",
+        "addr:street": "Snake Road",
         "communication:mobile_phone": "yes",
+        "height": "33",
         "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA698",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12439"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.122158,
-          34.7774763
+          -87.1221595,
+          34.7774879
         ]
       },
       "id": "node/1376787666"
@@ -467,6 +501,32 @@
         ]
       },
       "id": "node/1707299768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1715216624",
+        "addr:housenumber": "357",
+        "addr:state": "AL",
+        "addr:street": "Lost Creek Road",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4849985,
+          33.9006998
+        ]
+      },
+      "id": "node/1715216624"
     },
     {
       "type": "Feature",
@@ -3477,6 +3537,29 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/4524977868",
+        "communication:mobile_phone": "yes",
+        "height": "33",
+        "man_made": "mast",
+        "operator": "GTE MOBILNET OF FLORENCE, ALABAMA INCORPORATED",
+        "ref": "KNKA669",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6248782,
+          34.8358081
+        ]
+      },
+      "id": "node/4524977868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/4529309190",
         "communication:bos": "no",
         "communication:gsm-r": "no",
@@ -3674,6 +3757,32 @@
         ]
       },
       "id": "node/4596547613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4610640957",
+        "addr:housenumber": "211",
+        "addr:state": "AL",
+        "addr:street": "Vine Street Northwest",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC;Cellco Partnership",
+        "ref": "KNKN903;KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12107;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9884612,
+          34.6139286
+        ]
+      },
+      "id": "node/4610640957"
     },
     {
       "type": "Feature",
@@ -5943,6 +6052,32 @@
         ]
       },
       "id": "node/6106288947"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6129654348",
+        "addr:housenumber": "4600",
+        "addr:state": "AL",
+        "addr:street": "County Road 70",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN960",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7816667,
+          34.2003056
+        ]
+      },
+      "id": "node/6129654348"
     },
     {
       "type": "Feature",
@@ -9007,15 +9142,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/7786131232",
+        "addr:housenumber": "11622",
+        "addr:state": "AL",
+        "addr:street": "Bama Rock Garden Road",
         "communication:mobile_phone": "yes",
+        "height": "26",
         "man_made": "mast",
-        "tower:type": "communication"
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA609",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12740"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.2096384,
-          33.2205609
+          -87.2096648,
+          33.2205657
         ]
       },
       "id": "node/7786131232"
@@ -9025,8 +9169,14 @@
       "properties": {
         "@id": "node/7786131233",
         "communication:mobile_phone": "yes",
+        "height": "27",
         "man_made": "mast",
-        "tower:type": "communication"
+        "operator": "Tuscaloosa Cellular Partnership",
+        "ref": "KNKA783",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13203"
       },
       "geometry": {
         "type": "Point",
@@ -13899,16 +14049,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/8754147272",
+        "addr:housenumber": "1313",
+        "addr:state": "AL",
+        "addr:street": "Mount Hebron Road",
         "communication:mobile_phone": "yes",
+        "height": "28",
         "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN761",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "freestanding",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12103"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -88.0794632,
-          33.9307837
+          -88.0794574,
+          33.9307768
         ]
       },
       "id": "node/8754147272"
@@ -16496,16 +16654,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9312961398",
+        "addr:housenumber": "251",
+        "addr:state": "AL",
+        "addr:street": "Goardsville Road",
         "communication:mobile_phone": "yes",
+        "height": "24",
         "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA621",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13140"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.36157,
-          34.9740238
+          -87.3615523,
+          34.9740231
         ]
       },
       "id": "node/9312961398"
@@ -16565,6 +16731,32 @@
         ]
       },
       "id": "node/9332596397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9341981015",
+        "addr:housenumber": "9363",
+        "addr:state": "AL",
+        "addr:street": "County Road 214",
+        "communication:mobile_phone": "yes",
+        "height": "33",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ276",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1267628,
+          34.5564919
+        ]
+      },
+      "id": "node/9341981015"
     },
     {
       "type": "Feature",
@@ -17231,16 +17423,24 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9498776481",
+        "addr:housenumber": "118",
+        "addr:state": "AL",
+        "addr:street": "County Road 391",
         "communication:mobile_phone": "yes",
+        "height": "28",
         "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN960",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11674"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.0237177,
-          34.3439936
+          -86.0236943,
+          34.3439915
         ]
       },
       "id": "node/9498776481"
@@ -18794,10 +18994,15 @@
       "properties": {
         "@id": "node/9882289825",
         "communication:mobile_phone": "yes",
+        "height": "17",
         "man_made": "mast",
         "material": "steel",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA665",
+        "source": "FCC HIFLD Cellular Database",
         "tower:construction": "lattice",
-        "tower:type": "communication"
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12096"
       },
       "geometry": {
         "type": "Point",
@@ -21124,7 +21329,7 @@
         "communication:mobile_phone": "yes",
         "height": "26",
         "man_made": "mast",
-        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "operator": "Cellco Partnership;NEW CINGULAR WIRELESS PCS, LLC",
         "ref": "KNKA392",
         "source": "FCC HIFLD Cellular Database",
         "tower:construction": "guyed_lattice",
@@ -26209,6 +26414,3670 @@
         ]
       },
       "id": "node/9916140095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917594814",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1837266,
+          34.1465416
+        ]
+      },
+      "id": "node/9917594814"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917594815",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKQ444",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4944412,
+          33.7249159
+        ]
+      },
+      "id": "node/9917594815"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917594816",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKQ444",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4821667,
+          33.3487778
+        ]
+      },
+      "id": "node/9917594816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616217",
+        "addr:housenumber": "964",
+        "addr:state": "AL",
+        "addr:street": "Bradford Road",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKQ444",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6918655,
+          33.3269581
+        ]
+      },
+      "id": "node/9917616217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616218",
+        "addr:housenumber": "202",
+        "addr:state": "AL",
+        "addr:street": "Carter Hill Lane",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKQ444",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.05874,
+          33.4539223
+        ]
+      },
+      "id": "node/9917616218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616219",
+        "addr:housenumber": "16856",
+        "addr:state": "AL",
+        "addr:street": "County Road 49",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKQ444",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3707308,
+          33.6721894
+        ]
+      },
+      "id": "node/9917616219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616220",
+        "addr:housenumber": "299",
+        "addr:state": "AL",
+        "addr:street": "Rushing Springs Road",
+        "communication:mobile_phone": "yes",
+        "height": "14",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKQ444",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1301841,
+          33.5818926
+        ]
+      },
+      "id": "node/9917616220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616221",
+        "addr:housenumber": "188",
+        "addr:state": "AL",
+        "addr:street": "Hillside Circle",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKQ444",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3519167,
+          33.2501111
+        ]
+      },
+      "id": "node/9917616221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616222",
+        "communication:mobile_phone": "yes",
+        "height": "10",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKQ444",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2078868,
+          33.4116164
+        ]
+      },
+      "id": "node/9917616222"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616223",
+        "communication:mobile_phone": "yes",
+        "height": "31",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6380283,
+          34.2147453
+        ]
+      },
+      "id": "node/9917616223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616224",
+        "communication:mobile_phone": "yes",
+        "height": "29",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6251828,
+          34.0886386
+        ]
+      },
+      "id": "node/9917616224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616225",
+        "addr:housenumber": "5879",
+        "addr:state": "AL",
+        "addr:street": "US 278",
+        "communication:mobile_phone": "yes",
+        "height": "29",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_tube",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5563611,
+          34.1226389
+        ]
+      },
+      "id": "node/9917616225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616226",
+        "addr:housenumber": "43",
+        "addr:state": "AL",
+        "addr:street": "Cagle Road",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "Cellco Partnership;NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3917613,
+          34.1540933
+        ]
+      },
+      "id": "node/9917616226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616227",
+        "addr:housenumber": "901",
+        "addr:state": "AL",
+        "addr:street": "Black Road",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8060268,
+          34.4712666
+        ]
+      },
+      "id": "node/9917616227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616228",
+        "addr:housenumber": "1202",
+        "addr:state": "AL",
+        "addr:street": "Pitt Road",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5085418,
+          34.1442668
+        ]
+      },
+      "id": "node/9917616228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616229",
+        "communication:mobile_phone": "yes",
+        "height": "37",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8921581,
+          34.0475005
+        ]
+      },
+      "id": "node/9917616229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616230",
+        "addr:housenumber": "596",
+        "addr:state": "AL",
+        "addr:street": "Fire Tower Road",
+        "communication:mobile_phone": "yes",
+        "height": "9",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0233269,
+          34.1124055
+        ]
+      },
+      "id": "node/9917616230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616231",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9006495,
+          34.4232993
+        ]
+      },
+      "id": "node/9917616231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616232",
+        "communication:mobile_phone": "yes",
+        "height": "25",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2633019,
+          34.6211156
+        ]
+      },
+      "id": "node/9917616232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616233",
+        "addr:housenumber": "246",
+        "addr:state": "AL",
+        "addr:street": "Parker Road",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2835748,
+          34.5102911
+        ]
+      },
+      "id": "node/9917616233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616234",
+        "addr:housenumber": "14187",
+        "addr:state": "AL",
+        "addr:street": "US 43",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_tube",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7212609,
+          34.4996114
+        ]
+      },
+      "id": "node/9917616234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616235",
+        "addr:housenumber": "7334",
+        "addr:state": "AL",
+        "addr:street": "Highway 22",
+        "communication:mobile_phone": "yes",
+        "height": "29",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.757526,
+          34.4026074
+        ]
+      },
+      "id": "node/9917616235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616236",
+        "addr:housenumber": "4020",
+        "addr:state": "AL",
+        "addr:street": "Mountain Valley Road",
+        "communication:mobile_phone": "yes",
+        "height": "30",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9103166,
+          34.5301914
+        ]
+      },
+      "id": "node/9917616236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616237",
+        "addr:housenumber": "13873",
+        "addr:state": "AL",
+        "addr:street": "County Road 81",
+        "communication:mobile_phone": "yes",
+        "height": "17",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5830418,
+          34.4460817
+        ]
+      },
+      "id": "node/9917616237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616238",
+        "addr:housenumber": "23317",
+        "addr:state": "AL",
+        "addr:street": "US 31",
+        "communication:mobile_phone": "yes",
+        "height": "22",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKR324",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9006332,
+          34.2965345
+        ]
+      },
+      "id": "node/9917616238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616239",
+        "addr:housenumber": "22432",
+        "addr:state": "AL",
+        "addr:street": "Old Village Road",
+        "communication:mobile_phone": "yes",
+        "height": "27",
+        "man_made": "mast",
+        "operator": "Tuscaloosa Cellular Partnership",
+        "ref": "KNKA783",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1002215,
+          33.2615818
+        ]
+      },
+      "id": "node/9917616239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616240",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Tuscaloosa Cellular Partnership",
+        "ref": "KNKA783",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6042015,
+          33.4243451
+        ]
+      },
+      "id": "node/9917616240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616241",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "Tuscaloosa Cellular Partnership",
+        "ref": "KNKA783",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.600711,
+          33.2920101
+        ]
+      },
+      "id": "node/9917616241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616242",
+        "addr:housenumber": "5720",
+        "addr:state": "AL",
+        "addr:street": "County Road 81",
+        "communication:mobile_phone": "yes",
+        "height": "33",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ276",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1630278,
+          34.4062778
+        ]
+      },
+      "id": "node/9917616242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616243",
+        "addr:housenumber": "772",
+        "addr:state": "AL",
+        "addr:street": "AL 24",
+        "communication:mobile_phone": "yes",
+        "height": "30",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ276",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9599276,
+          34.4841332
+        ]
+      },
+      "id": "node/9917616243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616244",
+        "communication:mobile_phone": "yes",
+        "height": "34",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ276",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4069475,
+          34.7302798
+        ]
+      },
+      "id": "node/9917616244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616245",
+        "addr:housenumber": "8555",
+        "addr:state": "AL",
+        "addr:street": "County Road 22",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ276",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7366213,
+          34.3976316
+        ]
+      },
+      "id": "node/9917616245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616246",
+        "addr:housenumber": "140",
+        "addr:state": "AL",
+        "addr:street": "AL 247",
+        "communication:mobile_phone": "yes",
+        "height": "31",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA621",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9559053,
+          34.5764005
+        ]
+      },
+      "id": "node/9917616246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616247",
+        "addr:housenumber": "15",
+        "addr:state": "AL",
+        "addr:street": "Misty Mountain Road",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "GTE MOBILNET OF FLORENCE, ALABAMA INCORPORATED;NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA621",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6523115,
+          34.6315431
+        ]
+      },
+      "id": "node/9917616247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616248",
+        "addr:housenumber": "8180",
+        "addr:state": "AL",
+        "addr:street": "Old Highway 20",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA621",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5173889,
+          34.6922778
+        ]
+      },
+      "id": "node/9917616248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616249",
+        "addr:housenumber": "408",
+        "addr:state": "AL",
+        "addr:street": "County Road 364",
+        "communication:mobile_phone": "yes",
+        "height": "19",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA621",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5361111,
+          34.9307222
+        ]
+      },
+      "id": "node/9917616249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616250",
+        "addr:housenumber": "2601",
+        "addr:state": "AL",
+        "addr:street": "County Road 52",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA621",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2569444,
+          34.9229722
+        ]
+      },
+      "id": "node/9917616250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616251",
+        "addr:housenumber": "1500",
+        "addr:state": "AL",
+        "addr:street": "County Road 45",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA621",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13140"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0812785,
+          34.9249705
+        ]
+      },
+      "id": "node/9917616251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616252",
+        "addr:housenumber": "15307",
+        "addr:state": "AL",
+        "addr:street": "County Road 400",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA621;KNKQ276",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13140;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13141"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1585278,
+          34.6571944
+        ]
+      },
+      "id": "node/9917616252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616253",
+        "addr:housenumber": "12617",
+        "addr:state": "AL",
+        "addr:street": "Buhl Cutoff Road",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA609",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7406222,
+          33.2754489
+        ]
+      },
+      "id": "node/9917616253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616254",
+        "addr:housenumber": "13599",
+        "addr:state": "AL",
+        "addr:street": "Grady Phillips Road",
+        "communication:mobile_phone": "yes",
+        "height": "31",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA609",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6517336,
+          33.5175084
+        ]
+      },
+      "id": "node/9917616254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616255",
+        "addr:housenumber": "21225",
+        "addr:state": "AL",
+        "addr:street": "Lake View Drive",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA609",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.134745,
+          33.2685957
+        ]
+      },
+      "id": "node/9917616255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616256",
+        "addr:housenumber": "401",
+        "addr:state": "AL",
+        "addr:street": "McEntire Lane Southwest",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN904",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.03409,
+          34.5983682
+        ]
+      },
+      "id": "node/9917616256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616257",
+        "addr:housenumber": "104",
+        "addr:state": "AL",
+        "addr:street": "4th Street Northwest",
+        "communication:mobile_phone": "yes",
+        "height": "17",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN904",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4999906,
+          34.3181079
+        ]
+      },
+      "id": "node/9917616257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616259",
+        "addr:housenumber": "2400",
+        "addr:state": "AL",
+        "addr:street": "Jenkins Road",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN904",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7060676,
+          34.022242
+        ]
+      },
+      "id": "node/9917616259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616260",
+        "addr:housenumber": "931",
+        "addr:state": "AL",
+        "addr:street": "County Road 96",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN904",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0510463,
+          34.0301774
+        ]
+      },
+      "id": "node/9917616260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616261",
+        "addr:housenumber": "51101",
+        "addr:state": "AL",
+        "addr:street": "US 231",
+        "communication:mobile_phone": "yes",
+        "height": "22",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN904",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.418781,
+          33.9417611
+        ]
+      },
+      "id": "node/9917616261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616262",
+        "addr:housenumber": "820",
+        "addr:state": "AL",
+        "addr:street": "US 231",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN904",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12718"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5811111,
+          34.5558611
+        ]
+      },
+      "id": "node/9917616262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616263",
+        "communication:mobile_phone": "yes",
+        "height": "13",
+        "man_made": "tower",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA698",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66925,
+          34.6493611
+        ]
+      },
+      "id": "node/9917616263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616264",
+        "communication:mobile_phone": "yes",
+        "height": "24",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA698",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2196667,
+          34.2827222
+        ]
+      },
+      "id": "node/9917616264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616265",
+        "communication:mobile_phone": "yes",
+        "height": "19",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA698",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6433171,
+          34.6667
+        ]
+      },
+      "id": "node/9917616265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616266",
+        "addr:housenumber": "298",
+        "addr:state": "AL",
+        "addr:street": "Matt Morrow Drive",
+        "communication:mobile_phone": "yes",
+        "height": "32",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA698",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5189128,
+          34.3752904
+        ]
+      },
+      "id": "node/9917616266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616267",
+        "communication:mobile_phone": "yes",
+        "height": "22",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA698",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5918202,
+          34.9142914
+        ]
+      },
+      "id": "node/9917616267"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616268",
+        "addr:housenumber": "16810",
+        "addr:state": "AL",
+        "addr:street": "County Road 33",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA392",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0902222,
+          34.8024167
+        ]
+      },
+      "id": "node/9917616268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616269",
+        "addr:housenumber": "1701",
+        "addr:state": "AL",
+        "addr:street": "Anderson Ridge Road",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA392",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3073019,
+          34.5284645
+        ]
+      },
+      "id": "node/9917616269"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616270",
+        "addr:housenumber": "359",
+        "addr:state": "AL",
+        "addr:street": "Racking Lane",
+        "communication:mobile_phone": "yes",
+        "height": "21",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA392",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3017577,
+          34.1779025
+        ]
+      },
+      "id": "node/9917616270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616271",
+        "addr:housenumber": "4820",
+        "addr:state": "AL",
+        "addr:street": "Belle Tower Road",
+        "communication:mobile_phone": "yes",
+        "height": "19",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA392",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8977328,
+          34.6252071
+        ]
+      },
+      "id": "node/9917616271"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616272",
+        "addr:housenumber": "6099",
+        "addr:state": "AL",
+        "addr:street": "AL 69",
+        "communication:mobile_phone": "yes",
+        "height": "30",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA392",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3885982,
+          34.3594771
+        ]
+      },
+      "id": "node/9917616272"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616273",
+        "addr:housenumber": "3686",
+        "addr:state": "AL",
+        "addr:street": "Madkin Mountain Service Road",
+        "communication:mobile_phone": "yes",
+        "height": "17",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA392",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12290"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6431482,
+          34.6669193
+        ]
+      },
+      "id": "node/9917616273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616274",
+        "addr:housenumber": "10003",
+        "addr:state": "AL",
+        "addr:street": "Main Street",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3929444,
+          33.7130556
+        ]
+      },
+      "id": "node/9917616274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616275",
+        "addr:housenumber": "7301",
+        "addr:state": "AL",
+        "addr:street": "William Howton Road",
+        "communication:mobile_phone": "yes",
+        "height": "43",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0896944,
+          33.5306667
+        ]
+      },
+      "id": "node/9917616275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616276",
+        "addr:housenumber": "230",
+        "addr:state": "AL",
+        "addr:street": "Franklin Gap Road",
+        "communication:mobile_phone": "yes",
+        "height": "19",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5453625,
+          33.5688493
+        ]
+      },
+      "id": "node/9917616276"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616277",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9440862,
+          33.3804516
+        ]
+      },
+      "id": "node/9917616277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616278",
+        "addr:housenumber": "3858",
+        "addr:state": "AL",
+        "addr:street": "Parkwood Road Southeast",
+        "communication:mobile_phone": "yes",
+        "height": "10",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9001389,
+          33.3394167
+        ]
+      },
+      "id": "node/9917616278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616279",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.63475,
+          33.3565
+        ]
+      },
+      "id": "node/9917616279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616280",
+        "addr:housenumber": "11",
+        "addr:state": "AL",
+        "addr:street": "21st Avenue Northwest",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "freestanding",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6850677,
+          33.6399148
+        ]
+      },
+      "id": "node/9917616280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616281",
+        "addr:housenumber": "1225",
+        "addr:state": "AL",
+        "addr:street": "Clark Mountain Road West",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0074167,
+          33.4591389
+        ]
+      },
+      "id": "node/9917616281"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616282",
+        "addr:housenumber": "1942",
+        "addr:state": "AL",
+        "addr:street": "Rex Lake Road",
+        "communication:mobile_phone": "yes",
+        "height": "14",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5875272,
+          33.5331293
+        ]
+      },
+      "id": "node/9917616282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616283",
+        "addr:housenumber": "6953",
+        "addr:state": "AL",
+        "addr:street": "McAshan Drive",
+        "communication:mobile_phone": "yes",
+        "height": "39",
+        "man_made": "mast",
+        "operator": "Cellco Partnership;NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0442701,
+          33.3187581
+        ]
+      },
+      "id": "node/9917616283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616284",
+        "addr:housenumber": "340",
+        "addr:state": "AL",
+        "addr:street": "Westover Road",
+        "communication:mobile_phone": "yes",
+        "height": "19",
+        "man_made": "mast",
+        "operator": "Cellco Partnership;NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4808216,
+          33.3595063
+        ]
+      },
+      "id": "node/9917616284"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616286",
+        "communication:mobile_phone": "yes",
+        "height": "59",
+        "man_made": "mast",
+        "operator": "Cellco Partnership;Tuscaloosa Cellular Partnership",
+        "ref": "KNKA343;KNKA783",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=13203"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1523852,
+          33.8055206
+        ]
+      },
+      "id": "node/9917616286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616287",
+        "addr:housenumber": "515",
+        "addr:state": "AL",
+        "addr:street": "Inthawoods Circle",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5184332,
+          33.694002
+        ]
+      },
+      "id": "node/9917616287"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616288",
+        "addr:housenumber": "3701",
+        "addr:state": "AL",
+        "addr:street": "Loop Road",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2857222,
+          33.9080278
+        ]
+      },
+      "id": "node/9917616288"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616289",
+        "addr:housenumber": "112",
+        "addr:state": "AL",
+        "addr:street": "Medical Park Drive",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.667205,
+          33.5999316
+        ]
+      },
+      "id": "node/9917616289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616290",
+        "addr:housenumber": "104",
+        "addr:state": "AL",
+        "addr:street": "Shell Lane",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "Cellco Partnership;NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2623094,
+          33.613706
+        ]
+      },
+      "id": "node/9917616290"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616291",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9512718,
+          33.6075737
+        ]
+      },
+      "id": "node/9917616291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616292",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4189381,
+          33.6054356
+        ]
+      },
+      "id": "node/9917616292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616293",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7723929,
+          33.2934128
+        ]
+      },
+      "id": "node/9917616293"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616294",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA343",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6605159,
+          33.3992576
+        ]
+      },
+      "id": "node/9917616294"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616295",
+        "addr:country": "86200",
+        "addr:housenumber": "6532",
+        "addr:state": "AL",
+        "addr:street": "County Road 82",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN685",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5521276,
+          33.4220533
+        ]
+      },
+      "id": "node/9917616295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616296",
+        "addr:housenumber": "300",
+        "addr:state": "AL",
+        "addr:street": "Industrial Drive",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN685",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1523889,
+          33.6106667
+        ]
+      },
+      "id": "node/9917616296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616297",
+        "addr:housenumber": "192",
+        "addr:state": "AL",
+        "addr:street": "County Road 422",
+        "communication:mobile_phone": "yes",
+        "height": "37",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC;Rural Cellular Corporation",
+        "ref": "KNKN685",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5023099,
+          33.6433406
+        ]
+      },
+      "id": "node/9917616297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616298",
+        "addr:housenumber": "1082",
+        "addr:state": "AL",
+        "addr:street": "AL 281",
+        "communication:mobile_phone": "yes",
+        "height": "10",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN685",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6348456,
+          33.6426072
+        ]
+      },
+      "id": "node/9917616298"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616299",
+        "addr:housenumber": "268",
+        "addr:state": "AL",
+        "addr:street": "Hillside Circle",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN685",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3535278,
+          33.2486667
+        ]
+      },
+      "id": "node/9917616299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616300",
+        "addr:housenumber": "2160",
+        "addr:state": "AL",
+        "addr:street": "Martin Luther King Drive",
+        "communication:mobile_phone": "yes",
+        "height": "15",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA575",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8732347,
+          33.6200953
+        ]
+      },
+      "id": "node/9917616300"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616301",
+        "addr:housenumber": "660",
+        "addr:state": "AL",
+        "addr:street": "Aarons Way",
+        "communication:mobile_phone": "yes",
+        "height": "19",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA575",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8157481,
+          33.6818222
+        ]
+      },
+      "id": "node/9917616301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616302",
+        "addr:housenumber": "1162",
+        "addr:state": "AL",
+        "addr:street": "County Road 345",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ369",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8483821,
+          34.2765556
+        ]
+      },
+      "id": "node/9917616302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616303",
+        "addr:housenumber": "9825",
+        "addr:state": "AL",
+        "addr:street": "Bankhead Highway",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ369",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6505773,
+          33.9436436
+        ]
+      },
+      "id": "node/9917616303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616304",
+        "addr:housenumber": "155",
+        "addr:state": "AL",
+        "addr:street": "Fawn Grove Road",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ369",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7835556,
+          33.9278611
+        ]
+      },
+      "id": "node/9917616304"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616305",
+        "addr:housenumber": "5660",
+        "addr:state": "AL",
+        "addr:street": "County Road 13",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ369",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1458889,
+          34.1936389
+        ]
+      },
+      "id": "node/9917616305"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616306",
+        "addr:housenumber": "210",
+        "addr:state": "AL",
+        "addr:street": "Gin Street",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ369",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6994722,
+          34.2726667
+        ]
+      },
+      "id": "node/9917616306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616307",
+        "addr:housenumber": "9825",
+        "addr:state": "AL",
+        "addr:street": "County Road 41",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ369",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2013611,
+          34.119
+        ]
+      },
+      "id": "node/9917616307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616308",
+        "addr:housenumber": "619",
+        "addr:state": "AL",
+        "addr:street": "Hunter Road",
+        "communication:mobile_phone": "yes",
+        "height": "22",
+        "man_made": "mast",
+        "operator": "Cellco Partnership;NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ369",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1894722,
+          34.2112778
+        ]
+      },
+      "id": "node/9917616308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616309",
+        "addr:housenumber": "198",
+        "addr:state": "AL",
+        "addr:street": "Tower Lane",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ369",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9755523,
+          34.0822557
+        ]
+      },
+      "id": "node/9917616309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616310",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKQ369",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5912687,
+          34.2224
+        ]
+      },
+      "id": "node/9917616310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616311",
+        "communication:mobile_phone": "yes",
+        "height": "30",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA660",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1176006,
+          34.1279929
+        ]
+      },
+      "id": "node/9917616311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616312",
+        "addr:housenumber": "560",
+        "addr:state": "AL",
+        "addr:street": "Whites Chapel Road",
+        "communication:mobile_phone": "yes",
+        "height": "24",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA660",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9248056,
+          34.06175
+        ]
+      },
+      "id": "node/9917616312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616313",
+        "addr:housenumber": "2445",
+        "addr:state": "AL",
+        "addr:street": "County Road 326",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN959",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6619332,
+          34.7777909
+        ]
+      },
+      "id": "node/9917616313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616314",
+        "addr:housenumber": "1183",
+        "addr:state": "AL",
+        "addr:street": "AL 79",
+        "communication:mobile_phone": "yes",
+        "height": "33",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN959",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1460833,
+          34.5492778
+        ]
+      },
+      "id": "node/9917616314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616315",
+        "addr:housenumber": "862",
+        "addr:state": "AL",
+        "addr:street": "County Road 243",
+        "communication:mobile_phone": "yes",
+        "height": "16",
+        "man_made": "antenna",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN959",
+        "source": "FCC HIFLD Cellular Database",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0990833,
+          34.8758611
+        ]
+      },
+      "id": "node/9917616315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616316",
+        "addr:housenumber": "801",
+        "addr:state": "AL",
+        "addr:street": "McNees Crossing Road",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN761",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1857952,
+          33.7553867
+        ]
+      },
+      "id": "node/9917616316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616317",
+        "addr:housenumber": "686",
+        "addr:state": "AL",
+        "addr:street": "Sandy Springs Road",
+        "communication:mobile_phone": "yes",
+        "height": "33",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN761",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_tube",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8525813,
+          33.2935929
+        ]
+      },
+      "id": "node/9917616317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616318",
+        "addr:housenumber": "2409",
+        "addr:state": "AL",
+        "addr:street": "County Road 30",
+        "communication:mobile_phone": "yes",
+        "height": "23",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN761",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.245485,
+          33.4702125
+        ]
+      },
+      "id": "node/9917616318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616319",
+        "addr:housenumber": "6620",
+        "addr:state": "AL",
+        "addr:street": "AL 18",
+        "communication:mobile_phone": "yes",
+        "height": "32",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN761",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7229493,
+          33.6923745
+        ]
+      },
+      "id": "node/9917616319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616320",
+        "communication:mobile_phone": "yes",
+        "height": "32",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN761",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6698788,
+          33.6251551
+        ]
+      },
+      "id": "node/9917616320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616321",
+        "addr:housenumber": "142",
+        "addr:state": "AL",
+        "addr:street": "Pats Drive",
+        "communication:mobile_phone": "yes",
+        "height": "17",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA262",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2454167,
+          33.8270833
+        ]
+      },
+      "id": "node/9917616321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616322",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA262",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1143135,
+          33.8071996
+        ]
+      },
+      "id": "node/9917616322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616323",
+        "addr:housenumber": "1273",
+        "addr:state": "AL",
+        "addr:street": "Marigold Road",
+        "communication:mobile_phone": "yes",
+        "height": "27",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA262",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3295278,
+          33.9448611
+        ]
+      },
+      "id": "node/9917616323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616324",
+        "addr:housenumber": "150",
+        "addr:state": "AL",
+        "addr:street": "Hummingbird Lane",
+        "communication:mobile_phone": "yes",
+        "height": "17",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA262;KNKA609",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12102;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12740"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.169367,
+          33.6344545
+        ]
+      },
+      "id": "node/9917616324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616325",
+        "addr:housenumber": "7279",
+        "addr:state": "AL",
+        "addr:street": "William Howton Road",
+        "communication:mobile_phone": "yes",
+        "height": "17",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA262",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0852222,
+          33.5361944
+        ]
+      },
+      "id": "node/9917616325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616326",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "Cellco Partnership;NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA262",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12251;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4494195,
+          33.7709433
+        ]
+      },
+      "id": "node/9917616326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616327",
+        "addr:housenumber": "1598",
+        "addr:state": "AL",
+        "addr:street": "Sunset Drive",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA665",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8452276,
+          33.7543435
+        ]
+      },
+      "id": "node/9917616327"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616328",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKA665",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.97575,
+          33.5865278
+        ]
+      },
+      "id": "node/9917616328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616329",
+        "addr:housenumber": "1624",
+        "addr:state": "AL",
+        "addr:street": "Forrest Avenue",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "GADSDEN CELLTELCO PARTNERSHIP",
+        "ref": "KNKA607",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0280543,
+          34.0184746
+        ]
+      },
+      "id": "node/9917616329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616330",
+        "addr:housenumber": "693",
+        "addr:state": "AL",
+        "addr:street": "Fire Tower Road",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "GADSDEN CELLTELCO PARTNERSHIP",
+        "ref": "KNKA607",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1826667,
+          34.1476944
+        ]
+      },
+      "id": "node/9917616330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616331",
+        "communication:mobile_phone": "yes",
+        "height": "11",
+        "man_made": "mast",
+        "operator": "GADSDEN CELLTELCO PARTNERSHIP;NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA607",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12046"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0832713,
+          33.9186669
+        ]
+      },
+      "id": "node/9917616331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616332",
+        "communication:mobile_phone": "yes",
+        "height": "31",
+        "man_made": "mast",
+        "operator": "Cellco Partnership;GADSDEN CELLTELCO PARTNERSHIP",
+        "ref": "KNKA665;KNKA607",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12046;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12096"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9035833,
+          33.9326111
+        ]
+      },
+      "id": "node/9917616332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616333",
+        "communication:mobile_phone": "yes",
+        "height": "13",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKN936",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8019167,
+          34.1881095
+        ]
+      },
+      "id": "node/9917616333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616334",
+        "communication:mobile_phone": "yes",
+        "height": "15",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKN936",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_tube",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2501389,
+          34.6993889
+        ]
+      },
+      "id": "node/9917616334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616335",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKN936",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8857673,
+          34.3562679
+        ]
+      },
+      "id": "node/9917616335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616336",
+        "communication:mobile_phone": "yes",
+        "height": "32",
+        "man_made": "mast",
+        "operator": "Cellco Partnership",
+        "ref": "KNKN936",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9008025,
+          34.6925868
+        ]
+      },
+      "id": "node/9917616336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616337",
+        "addr:housenumber": "107",
+        "addr:state": "AL",
+        "addr:street": "Commerce Drive",
+        "communication:mobile_phone": "yes",
+        "height": "18",
+        "man_made": "mast",
+        "operator": "GTE MOBILNET OF FLORENCE, ALABAMA INCORPORATED",
+        "ref": "KNKA669",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.66025,
+          34.7273056
+        ]
+      },
+      "id": "node/9917616337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616338",
+        "addr:housenumber": "1600",
+        "addr:state": "AL",
+        "addr:street": "County Road 428",
+        "communication:mobile_phone": "yes",
+        "height": "26",
+        "man_made": "mast",
+        "operator": "GTE MOBILNET OF FLORENCE, ALABAMA INCORPORATED",
+        "ref": "KNKA669",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11967"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.48175,
+          34.8712778
+        ]
+      },
+      "id": "node/9917616338"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616339",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "operator": "Cellco Partnership;GTE MOBILNET OF FLORENCE, ALABAMA INCORPORATED",
+        "ref": "KNKN743;KNKA669",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11967;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9145552,
+          34.7294422
+        ]
+      },
+      "id": "node/9917616339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616340",
+        "addr:housenumber": "151 Ben Elmore Road",
+        "addr:state": "AL",
+        "addr:street": "Inthawoods Circle",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8867162,
+          33.3230259
+        ]
+      },
+      "id": "node/9917616340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616341",
+        "communication:mobile_phone": "yes",
+        "height": "44",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8521161,
+          33.6271887
+        ]
+      },
+      "id": "node/9917616341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616342",
+        "communication:mobile_phone": "yes",
+        "height": "43",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0600463,
+          33.4569069
+        ]
+      },
+      "id": "node/9917616342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616343",
+        "communication:mobile_phone": "yes",
+        "height": "45",
+        "man_made": "mast",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0469093,
+          33.7600542
+        ]
+      },
+      "id": "node/9917616343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616344",
+        "addr:housenumber": "165",
+        "addr:state": "AL",
+        "addr:street": "County Road 266",
+        "communication:mobile_phone": "yes",
+        "height": "24",
+        "man_made": "mast",
+        "operator": "NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKN959;KNKN960",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11674;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6585303,
+          34.9411963
+        ]
+      },
+      "id": "node/9917616344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616345",
+        "addr:housenumber": "780",
+        "addr:state": "AL",
+        "addr:street": "Mountain View Drive",
+        "communication:mobile_phone": "yes",
+        "height": "17",
+        "man_made": "mast",
+        "operator": "Cellco Partnership;NEW CINGULAR WIRELESS PCS, LLC",
+        "ref": "KNKA575",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=12117;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6169686,
+          33.9075291
+        ]
+      },
+      "id": "node/9917616345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616346",
+        "addr:housenumber": "17337",
+        "addr:state": "AL",
+        "addr:street": "AL 168",
+        "communication:mobile_phone": "yes",
+        "height": "8",
+        "man_made": "antenna",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN960",
+        "source": "FCC HIFLD Cellular Database",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0786111,
+          34.2654722
+        ]
+      },
+      "id": "node/9917616346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616347",
+        "addr:housenumber": "1109",
+        "addr:state": "AL",
+        "addr:street": "County Road 41",
+        "communication:mobile_phone": "yes",
+        "height": "30",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN960",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9364444,
+          34.4435833
+        ]
+      },
+      "id": "node/9917616347"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616348",
+        "addr:housenumber": "805",
+        "addr:state": "AL",
+        "addr:street": "County Road 103",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN960",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6003233,
+          34.3947241
+        ]
+      },
+      "id": "node/9917616348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616349",
+        "addr:housenumber": "533",
+        "addr:state": "AL",
+        "addr:street": "3rd Avenue Southwest",
+        "communication:mobile_phone": "yes",
+        "height": "28",
+        "man_made": "mast",
+        "operator": "New Cingular Wireless PCS, LLC",
+        "ref": "KNKN960",
+        "source": "FCC HIFLD Cellular Database",
+        "tower:construction": "lattice",
+        "tower:type": "communication",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11674"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8207217,
+          34.5552346
+        ]
+      },
+      "id": "node/9917616349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9917616350",
+        "addr:housenumber": "115",
+        "addr:state": "AL",
+        "addr:street": "Lollar Street",
+        "communication:mobile_phone": "yes",
+        "height": "14",
+        "man_made": "antenna",
+        "operator": "Rural Cellular Corporation",
+        "ref": "KNKN716;KNKQ345",
+        "source": "FCC HIFLD Cellular Database",
+        "website": "http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11562;http://wireless2.fcc.gov/UlsApp/UlsSearch/licenseLocSum.jsp?licKey=11908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.128895,
+          33.8898082
+        ]
+      },
+      "id": "node/9917616350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201642",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6500746,
+          31.1414354
+        ]
+      },
+      "id": "node/9920201642"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201643",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6929751,
+          31.0944983
+        ]
+      },
+      "id": "node/9920201643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201644",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7139138,
+          31.1002597
+        ]
+      },
+      "id": "node/9920201644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201645",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7900611,
+          31.0873391
+        ]
+      },
+      "id": "node/9920201645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201646",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8787268,
+          31.0350647
+        ]
+      },
+      "id": "node/9920201646"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201647",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9369003,
+          31.0631984
+        ]
+      },
+      "id": "node/9920201647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201648",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9014854,
+          31.0469359
+        ]
+      },
+      "id": "node/9920201648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201649",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8767678,
+          31.098054
+        ]
+      },
+      "id": "node/9920201649"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201650",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8771264,
+          31.135066
+        ]
+      },
+      "id": "node/9920201650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201651",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8825473,
+          31.1712514
+        ]
+      },
+      "id": "node/9920201651"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201652",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6671374,
+          31.4490275
+        ]
+      },
+      "id": "node/9920201652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201653",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6513154,
+          31.4529116
+        ]
+      },
+      "id": "node/9920201653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201654",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.636111,
+          31.4638802
+        ]
+      },
+      "id": "node/9920201654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201655",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5990841,
+          31.4127747
+        ]
+      },
+      "id": "node/9920201655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201656",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5513773,
+          31.3465773
+        ]
+      },
+      "id": "node/9920201656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9920201657",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5454959,
+          31.3522351
+        ]
+      },
+      "id": "node/9920201657"
     }
   ]
 }
