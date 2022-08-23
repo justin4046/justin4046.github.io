@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-08-21T02:00:39Z",
+  "timestamp": "2022-08-23T22:01:10Z",
   "features": [
     {
       "type": "Feature",
@@ -970,6 +970,24 @@
         ]
       },
       "id": "node/2710908210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2716344066",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4506068,
+          33.0389621
+        ]
+      },
+      "id": "node/2716344066"
     },
     {
       "type": "Feature",
@@ -34851,6 +34869,816 @@
         ]
       },
       "id": "node/9966915519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987154",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8027371,
+          33.5201652
+        ]
+      },
+      "id": "node/9967987154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987155",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8975076,
+          33.481713
+        ]
+      },
+      "id": "node/9967987155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987156",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0137894,
+          33.4239647
+        ]
+      },
+      "id": "node/9967987156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987157",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8962765,
+          33.3925019
+        ]
+      },
+      "id": "node/9967987157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987158",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8237214,
+          33.5270528
+        ]
+      },
+      "id": "node/9967987158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987159",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7509698,
+          33.538855
+        ]
+      },
+      "id": "node/9967987159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987160",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.807551,
+          33.5410196
+        ]
+      },
+      "id": "node/9967987160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987161",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7816476,
+          33.5306045
+        ]
+      },
+      "id": "node/9967987161"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987162",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8579229,
+          33.5202485
+        ]
+      },
+      "id": "node/9967987162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987163",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8387092,
+          33.4887012
+        ]
+      },
+      "id": "node/9967987163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987164",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8418833,
+          33.4616489
+        ]
+      },
+      "id": "node/9967987164"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987165",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9710229,
+          33.4576493
+        ]
+      },
+      "id": "node/9967987165"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987166",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9240621,
+          33.4541947
+        ]
+      },
+      "id": "node/9967987166"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987167",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8822666,
+          33.4562491
+        ]
+      },
+      "id": "node/9967987167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987168",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9069758,
+          33.4669786
+        ]
+      },
+      "id": "node/9967987168"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987169",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9606133,
+          33.4060488
+        ]
+      },
+      "id": "node/9967987169"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9967987170",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9918375,
+          33.3762914
+        ]
+      },
+      "id": "node/9967987170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9968879933",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2482111,
+          32.5945059
+        ]
+      },
+      "id": "node/9968879933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9969008077",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2517044,
+          32.8381077
+        ]
+      },
+      "id": "node/9969008077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9969008078",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8731994,
+          32.7734802
+        ]
+      },
+      "id": "node/9969008078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9969008079",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9207127,
+          32.6849031
+        ]
+      },
+      "id": "node/9969008079"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9969008080",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1139505,
+          32.8621817
+        ]
+      },
+      "id": "node/9969008080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9969008081",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1962145,
+          32.776801
+        ]
+      },
+      "id": "node/9969008081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9969008082",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2873459,
+          32.7347582
+        ]
+      },
+      "id": "node/9969008082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9971198715",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.091495,
+          32.5550006
+        ]
+      },
+      "id": "node/9971198715"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9971249187",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.659088,
+          32.6126348
+        ]
+      },
+      "id": "node/9971249187"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9971249200",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2950163,
+          32.6021707
+        ]
+      },
+      "id": "node/9971249200"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9971249201",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3436951,
+          32.5901817
+        ]
+      },
+      "id": "node/9971249201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9971249214",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.176574,
+          32.5283318
+        ]
+      },
+      "id": "node/9971249214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423722",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0785017,
+          32.4374388
+        ]
+      },
+      "id": "node/9973423722"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423723",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8571243,
+          32.4732466
+        ]
+      },
+      "id": "node/9973423723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423724",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5939969,
+          32.4346594
+        ]
+      },
+      "id": "node/9973423724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423725",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8177756,
+          32.7031968
+        ]
+      },
+      "id": "node/9973423725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423726",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7666292,
+          32.6551876
+        ]
+      },
+      "id": "node/9973423726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423727",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7552902,
+          32.6423178
+        ]
+      },
+      "id": "node/9973423727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423728",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6482372,
+          32.5462988
+        ]
+      },
+      "id": "node/9973423728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423729",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.71661,
+          32.7543526
+        ]
+      },
+      "id": "node/9973423729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423730",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8355016,
+          32.7253552
+        ]
+      },
+      "id": "node/9973423730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423731",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7702864,
+          32.8123133
+        ]
+      },
+      "id": "node/9973423731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423732",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9659844,
+          32.5818689
+        ]
+      },
+      "id": "node/9973423732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423733",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3557483,
+          32.8521237
+        ]
+      },
+      "id": "node/9973423733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423734",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3126753,
+          33.0209695
+        ]
+      },
+      "id": "node/9973423734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423735",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.263782,
+          33.0353667
+        ]
+      },
+      "id": "node/9973423735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423736",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "freestanding",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1274474,
+          32.9414157
+        ]
+      },
+      "id": "node/9973423736"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423737",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1993661,
+          32.9252623
+        ]
+      },
+      "id": "node/9973423737"
     }
   ]
 }
