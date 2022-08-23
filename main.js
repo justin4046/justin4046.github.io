@@ -38,7 +38,6 @@ const map = new ol.Map({
     center: new ol.proj.fromLonLat([-86.682, 32.605]),
     zoom: 8,
   }),
-  interactions: new ol.collection({ altShiftDragRotate: false, pinchRotate: false, }),
 });
 
 const featureOverlay = new ol.layer.Vector({
