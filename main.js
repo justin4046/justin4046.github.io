@@ -1,6 +1,6 @@
 const image = new ol.style.Circle({
   radius: 4,
-  fill: new ol.style.Fill({ color: '#000000'}),
+  fill: new ol.style.Fill({ color: '#000000' }),
   stroke: new ol.style.Stroke({ color: '#000000', width: 1 }),
 });
 
@@ -38,7 +38,7 @@ const map = new ol.Map({
     center: new ol.proj.fromLonLat([-86.682, 32.605]),
     zoom: 8,
   }),
-  interactions: new ol.interaction.defaults({altShiftDragRotate:false, pinchRotate:false,}),
+  interactions: new ol.collection({ altShiftDragRotate: false, pinchRotate: false, }),
 });
 
 const featureOverlay = new ol.layer.Vector({
