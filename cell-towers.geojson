@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2022-09-14T00:15:49Z",
+  "timestamp": "2022-12-11T15:36:37Z",
   "features": [
     {
       "type": "Feature",
@@ -123,6 +123,29 @@
         ]
       },
       "id": "node/358736488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/358737046",
+        "communication:mobile_phone": "yes",
+        "ele": "8",
+        "gnis:county_id": "051",
+        "gnis:created": "08/01/1994",
+        "gnis:feature_id": "310084",
+        "gnis:state_id": "12",
+        "man_made": "tower",
+        "name": "WWCL-AM (Lehigh Acres)",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5649081,
+          26.5998689
+        ]
+      },
+      "id": "node/358737046"
     },
     {
       "type": "Feature",
@@ -761,6 +784,25 @@
         ]
       },
       "id": "node/2377700251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2443164787",
+        "communication:mobile_phone": "yes",
+        "height": "39",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.246285,
+          33.849146
+        ]
+      },
+      "id": "node/2443164787"
     },
     {
       "type": "Feature",
@@ -3025,13 +3067,16 @@
       "properties": {
         "@id": "node/4274718756",
         "communication:mobile_phone": "yes",
-        "man_made": "mast"
+        "fcc:registration_number": "1030672",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.3248739,
-          29.6826909
+          -82.3249031,
+          29.6827019
         ]
       },
       "id": "node/4274718756"
@@ -3131,7 +3176,8 @@
       "properties": {
         "@id": "node/4274718765",
         "communication:mobile_phone": "yes",
-        "man_made": "mast"
+        "man_made": "tower",
+        "tower:type": "communication"
       },
       "geometry": {
         "type": "Point",
@@ -4024,8 +4070,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -82.1540003,
-          29.2963651
+          -82.1540414,
+          29.2963798
         ]
       },
       "id": "node/4524123949"
@@ -4611,8 +4657,8 @@
       "type": "Feature",
       "properties": {
         "@id": "node/4885828146",
-        "FIXME": "not a power pole",
         "communication:mobile_phone": "yes",
+        "fixme": "not a power pole",
         "man_made": "mast",
         "power": "tower",
         "tower:construction": "freestanding",
@@ -4764,8 +4810,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7288935,
-          27.9206108
+          -81.7289124,
+          27.9206056
         ]
       },
       "id": "node/5015012780"
@@ -4910,6 +4956,25 @@
         ]
       },
       "id": "node/5091271492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5092800929",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1022180",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6536043,
+          26.1576763
+        ]
+      },
+      "id": "node/5092800929"
     },
     {
       "type": "Feature",
@@ -6357,6 +6422,7 @@
         "@id": "node/5861528491",
         "communication:microwave": "yes",
         "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1003609",
         "man_made": "mast",
         "tower:construction": "guyed_lattice",
         "tower:type": "communication"
@@ -6769,6 +6835,7 @@
       "properties": {
         "@id": "node/5980410223",
         "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1040895",
         "man_made": "mast",
         "tower:construction": "guyed_lattice",
         "tower:type": "communication"
@@ -8711,6 +8778,7 @@
       "properties": {
         "@id": "node/7048134074",
         "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1028964",
         "man_made": "mast",
         "tower:construction": "lattice",
         "tower:type": "communication"
@@ -8718,8 +8786,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.7513423,
-          27.9843632
+          -81.7513417,
+          27.9843409
         ]
       },
       "id": "node/7048134074"
@@ -15140,6 +15208,28 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/8691451481",
+        "addr:city": "Jacksonville",
+        "addr:housenumber": "7751",
+        "addr:postcode": "32256",
+        "addr:state": "FL",
+        "addr:street": "Spaner Road",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.542934,
+          30.1832102
+        ]
+      },
+      "id": "node/8691451481"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/8699945091",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -17410,8 +17500,13 @@
       "type": "Feature",
       "properties": {
         "@id": "node/9163040801",
+        "addr:city": "Fayette",
+        "addr:housenumber": "9965",
+        "addr:postcode": "35555",
+        "addr:state": "AL",
+        "addr:street": "AL 171",
         "communication:mobile_phone": "yes",
-        "man_made": "mast",
+        "man_made": "tower",
         "tower:construction": "lattice",
         "tower:type": "communication"
       },
@@ -17718,6 +17813,29 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "node/9254422361",
+        "addr:city": "Baxley",
+        "addr:housenumber": "9071",
+        "addr:state": "GA",
+        "addr:street": "Hatch Parkway South",
+        "communication:mobile_phone": "yes",
+        "height": "199",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4218304,
+          31.6654799
+        ]
+      },
+      "id": "node/9254422361"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "node/9258316332",
         "communication:mobile_phone": "yes",
         "man_made": "mast",
@@ -17821,6 +17939,29 @@
         ]
       },
       "id": "node/9258513239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9264904068",
+        "addr:city": "Vidalia-Lyons",
+        "addr:housenumber": "3059",
+        "addr:state": "GA",
+        "addr:street": "US 1;GA 4",
+        "communication:mobile_phone": "yes",
+        "height": "199",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3546537,
+          32.1309271
+        ]
+      },
+      "id": "node/9264904068"
     },
     {
       "type": "Feature",
@@ -20077,6 +20218,29 @@
         ]
       },
       "id": "node/9815042687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9829290914",
+        "addr:city": "Beaverton",
+        "addr:housenumber": "31703",
+        "addr:postcode": "35544",
+        "addr:state": "AL",
+        "addr:street": "County Road 49",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0162436,
+          33.9222364
+        ]
+      },
+      "id": "node/9829290914"
     },
     {
       "type": "Feature",
@@ -26790,6 +26954,7 @@
       "properties": {
         "@id": "node/9913652432",
         "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1287378",
         "height": "27",
         "man_made": "mast",
         "operator": "ALLTEL Corporation",
@@ -26802,8 +26967,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.0824935,
-          31.9233835
+          -87.0823952,
+          31.9234096
         ]
       },
       "id": "node/9913652432"
@@ -36894,6 +37059,682 @@
         ]
       },
       "id": "node/10023109041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10053876176",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7513947,
+          31.1820113
+        ]
+      },
+      "id": "node/10053876176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10054753301",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7135767,
+          34.2871497
+        ]
+      },
+      "id": "node/10054753301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10080933773",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2466378,
+          33.267652
+        ]
+      },
+      "id": "node/10080933773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10080970742",
+        "communication:mobile_phone": "yes",
+        "height": "33",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9676027,
+          36.3259411
+        ]
+      },
+      "id": "node/10080970742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10088302453",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0575121,
+          31.2451418
+        ]
+      },
+      "id": "node/10088302453"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10088302454",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0593957,
+          31.1656914
+        ]
+      },
+      "id": "node/10088302454"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10088302455",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5440783,
+          31.3494956
+        ]
+      },
+      "id": "node/10088302455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10088302456",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7090958,
+          31.4055593
+        ]
+      },
+      "id": "node/10088302456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10088302457",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8211693,
+          31.4220794
+        ]
+      },
+      "id": "node/10088302457"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10088302458",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.630603,
+          31.1530474
+        ]
+      },
+      "id": "node/10088302458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10088302459",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6812377,
+          31.2297001
+        ]
+      },
+      "id": "node/10088302459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10088302460",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5552121,
+          31.2018759
+        ]
+      },
+      "id": "node/10088302460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10094534159",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6872004,
+          34.1289574
+        ]
+      },
+      "id": "node/10094534159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10119229210",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1054838",
+        "height": "79.2",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7006603,
+          26.7053232
+        ]
+      },
+      "id": "node/10119229210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10119231129",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1245171",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7310569,
+          24.8559513
+        ]
+      },
+      "id": "node/10119231129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10125279515",
+        "addr:city": "Baxley",
+        "addr:housenumber": "9311",
+        "addr:state": "GA",
+        "addr:street": "Plant Hatch Parkway",
+        "communication:mobile_phone": "yes",
+        "height": "199",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3567275,
+          31.9083674
+        ]
+      },
+      "id": "node/10125279515"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10130099769",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6022704,
+          30.2461927
+        ]
+      },
+      "id": "node/10130099769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10130342916",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1225439",
+        "man_made": "tower",
+        "tower:construction": "guyed",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6731488,
+          31.6381894
+        ]
+      },
+      "id": "node/10130342916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10130558486",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1029967",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0828588,
+          26.4370366
+        ]
+      },
+      "id": "node/10130558486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10132862931",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1290161",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7987048,
+          26.1153643
+        ]
+      },
+      "id": "node/10132862931"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10152786634",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:construction": "guyed_lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5696708,
+          34.6544839
+        ]
+      },
+      "id": "node/10152786634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10164015716",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5451179,
+          32.1521609
+        ]
+      },
+      "id": "node/10164015716"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10170180578",
+        "communication:mobile_phone": "yes",
+        "man_made": "antenna",
+        "material": "steel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5481259,
+          31.3877482
+        ]
+      },
+      "id": "node/10170180578"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10170364231",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0465774,
+          26.4425685
+        ]
+      },
+      "id": "node/10170364231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10170420530",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1033793",
+        "height": "46",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.105595,
+          26.4414044
+        ]
+      },
+      "id": "node/10170420530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10171553530",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9565407,
+          26.5620342
+        ]
+      },
+      "id": "node/10171553530"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172060781",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5125035,
+          34.6343744
+        ]
+      },
+      "id": "node/10172060781"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10172741925",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "10080877",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5285703,
+          27.3462201
+        ]
+      },
+      "id": "node/10172741925"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10173575483",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1010599",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1701019,
+          27.7609912
+        ]
+      },
+      "id": "node/10173575483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10174166270",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1022189",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8661791,
+          27.2401729
+        ]
+      },
+      "id": "node/10174166270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10174757224",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2862332,
+          33.0368123
+        ]
+      },
+      "id": "node/10174757224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10174824975",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4867449,
+          33.3524746
+        ]
+      },
+      "id": "node/10174824975"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10177615948",
+        "communication:lte": "yes",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice_steel",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0744774,
+          30.0555864
+        ]
+      },
+      "id": "node/10177615948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10183497352",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9373233,
+          26.8095341
+        ]
+      },
+      "id": "node/10183497352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10186583725",
+        "communication:mobile_phone": "yes",
+        "fcc:registration_number": "1263402",
+        "man_made": "tower",
+        "tower:construction": "monopole",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7075969,
+          26.6174627
+        ]
+      },
+      "id": "node/10186583725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10232016508",
+        "communication:mobile_phone": "yes",
+        "man_made": "mast",
+        "ref": "1320717",
+        "tower:construction": "lattice",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6100029,
+          31.032768
+        ]
+      },
+      "id": "node/10232016508"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10240008786",
+        "communication:mobile_phone": "yes",
+        "man_made": "tower",
+        "tower:type": "communication"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7317471,
+          35.9603294
+        ]
+      },
+      "id": "node/10240008786"
     }
   ]
 }
